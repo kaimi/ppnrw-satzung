@@ -53,6 +53,8 @@
 
 <span id="S5.5">(5)</span> In Kreisen ohne Kreisverband kann eine Mitgliederversammlung Vertreter für bestimmte Aufgaben bestimmen, wie beispielsweise die Verwaltung der Mitgliederdaten, die Aufsicht über den Posteingang oder die Vertretung gegenüber der Presse. Diese Vertreter sollen vom Landesvorstand in seiner nächsten Sitzung auf Antrag in der Regel offiziell mit den bestimmten Aufgaben betraut werden.
 
+<span id="S5.6">(6)</span> Die Einladungsfristen für ordentliche Mitgliederversammlungen unterhalb der Landesebene dürfen 14 Tage nicht unterschreiten.
+
 <span id="S6">
 ==§ 6 – Organe des Landesverbandes==
 </span>
