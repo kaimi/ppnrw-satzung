@@ -187,6 +187,12 @@
 
 <span id="S12.1">(1)</span> Die Bundespartei führt ein zentrales Piratenverzeichnis. Der Landesverband kann ein eigenes Landesverzeichnis seiner Mitglieder führen. Die Gebietsverbände können eigene Verzeichnisse Ihrer Mitglieder führen. Für die sichere  Aufbewahrung, die  parteigebundene Verwendung und Nutzung unter besonderer Berücksichtigung der Privatsphäre und der Aktualisierung jeglicher Art von Daten ist Sorge zu tragen.
 
+<span id="S13">
+==§ 13 – Urabstimmung==
+</span>
+
+(1) Für Wahlprogrammänderungen, Grundsatzprogrammänderungen, Satzungsänderungen und Personenwahlen kann eine Urabstimmung einberufen werden.
+
 
 <span id="F">
 =FINANZORDNUNG=
