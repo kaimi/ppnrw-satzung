@@ -363,6 +363,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 :<span id="SO6.1c">c)</span> sie sich nicht auf mindestens einen Koordinator verständigen kann,
 :<span id="SO6.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
 :<span id="SO6.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
+:<span id="SO6.1f">f)</span> das Landesschiedgericht auf Antrag des Landesvorstandes eine Aktivität dieser Organisationseinheit feststellt, die gegen die Landes- oder Bundessatzung verstößt.
 
 <span id="SO7">
 ==§7 – Crew==
