@@ -29,7 +29,7 @@
 ==§ 3 – Rechte und Pflichten der Mitglieder ==
 </span>
 
-<span id="S3.1">(1)</span> Die Rechte und Pflichten der Mitglieder des Landesverbandes werden durch die Bundessatzung geregelt.
+<span id="S3.1">(1)</span> Die Rechte und Pflichten der NRW-Piraten werden durch die Bundessatzung geregelt.
 
 <span id="S4">
 ==§ 4 – Ordnungsmaßnahmen==
@@ -65,7 +65,7 @@
 
 <span id="S6a.1">(1)</span> Der Landesparteitag ist die Mitgliederversammlung auf Landesebene. Er tagt mindestens einmal jährlich, grundsätzlich öffentlich und unter Zulassung von Gästen.
 
-<span id="S6a.2">(2)</span> Die Einladung erfolgt aufgrund eines Vorstandsbeschlusses oder auf Antrag von mindestens einem Zwanzigstel der Mitglieder des Landesverbandes. Die Einladung erfolgt in Textform und hat Angaben zum Tagungsort, Tagungsbeginn, die vorläufige Tagesordnung und Angaben, wo weitere Veröffentlichungen gemacht werden, zu enthalten.
+<span id="S6a.2">(2)</span> Die Einladung erfolgt aufgrund eines Vorstandsbeschlusses oder auf Antrag von mindestens einem Zwanzigstel der NRW-Piraten. Die Einladung erfolgt in Textform und hat Angaben zum Tagungsort, Tagungsbeginn, die vorläufige Tagesordnung und Angaben, wo weitere Veröffentlichungen gemacht werden, zu enthalten.
 
 <span id="S6a.3">(3)</span> Die Einladungsfrist beträgt 28 Tage für ordentliche, bzw. 7 Tage für außerordentliche Landesparteitage. Bei Letzteren muss die Dringlichkeit in der Einladung begründet werden und es dürfen ausschließlich jene Tagesordnungspunkte behandelt werden, welche explizit in der Einladung genannt wurden.
 
@@ -81,7 +81,7 @@
 ==§ 6b – Der Landesvorstand==
 </span>
 
-<span id="S6b.1">(1)</span> Dem Landesvorstand gehören neun Mitglieder des Landesverbandes an:
+<span id="S6b.1">(1)</span> Dem Landesvorstand gehören neun NRW-Piraten an:
 :Ein Vorsitzender,
 :zwei stellvertretende Vorsitzende,
 :der politische Geschäftsführer,
@@ -95,7 +95,7 @@
 
 <span id="S6b.4">(4)</span> Der Landesvorstand tagt grundsätzlich öffentlich.
 
-<span id="S6b.5">(5)</span> Auf Antrag eines Zwanzigstels der Mitglieder des Landesverbandes kann der Landesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
+<span id="S6b.5">(5)</span> Auf Antrag eines Zwanzigstels der NRW-Piraten kann der Landesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
 
 <span id="S6b.6">(6)</span> Der Landesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Landesparteitages.
 
@@ -119,7 +119,7 @@
 
 <span id="S6b.11">(11)</span> Fällt die Anzahl der Vorstandsmitglieder, die ihren Aufgaben nachkommen können, auf weniger als fünf oder erklärt sich der Landesvorstand selbst für handlungsunfähig, ist zwecks Neubesetzung freier Posten unverzüglich ein außerordentlicher Landesparteitag einzuberufen, bis zu dem die verbleibenden Vorstandsmitglieder die Geschäfte führen.
 
-<span id="S6b.12">(12)</span> Jedes Mitglied des Landesverbandes hat das Recht ein Misstrauensvotum zu fordern. Der Antrag dazu kann bis zum Ende des Landesparteitags gestellt werden. Über die Durchführung einer so beantragten Wahl eines neuen Vorstandes entscheidet der Landesparteitag mit einfacher Mehrheit.
+<span id="S6b.12">(12)</span> Jedes NRW-Pirat hat das Recht ein Misstrauensvotum zu fordern. Der Antrag dazu kann bis zum Ende des Landesparteitags gestellt werden. Über die Durchführung einer so beantragten Wahl eines neuen Vorstandes entscheidet der Landesparteitag mit einfacher Mehrheit.
 
 <span id="S6b.13">(13)</span> Der Landesvorstand
 :<span id="S6b.13a">a)</span> unterhält eine Internetpräsenz, die der Landesverband zur Verfügung stellt,
@@ -153,7 +153,7 @@
 
 <span id="S8.1">(1)</span> Änderungen der Landessatzung, Programme und Wahlprogramme des Landesverbandes können nur von einem Landesparteitag mit mindestens doppelt so vielen gültigen Ja-Stimmen wie gültigen Nein-Stimmen beschlossen werden. Dies gilt nicht für die Anhänge A und B dieser Landessatzung, welche mit mindestens einer gültigen Ja-Stimme mehr als gültigen Nein-Stimmen beschlossen werden.
 
-<span id="S8.2">(2)</span> Zwischen zwei Landesparteitagen können Änderungen der Landessatzung, Programme und Wahlprogramme vorgenommen werden, wenn mindestens 2/3 der Mitglieder des Landesverbandes sich mit dem Antrag auf Änderung schriftlich oder in einem vom Landesparteitag legitimierten Werkzeug einverstanden erklären.
+<span id="S8.2">(2)</span> Zwischen zwei Landesparteitagen können Änderungen der Landessatzung, Programme und Wahlprogramme vorgenommen werden, wenn mindestens 2/3 der NRW-Piraten sich mit dem Antrag auf Änderung schriftlich oder in einem vom Landesparteitag legitimierten Werkzeug einverstanden erklären.
 
 <span id="S8.3">(3)</span> Entfällt.
 
@@ -254,7 +254,7 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 
 <span id="F5.2">(2)</span> Der Landesschatzmeister verwaltet alle virtuellen Kreisverbände und beschlossenen Budgets auf Finanzkonten.
 
-<span id="F5.3">(3)</span> Die Buchführung und die Verwaltung von Bankkonten haben unter Berücksichtigung des Datenschutzes möglichst transparent zu erfolgen. Der aktuelle Kontostand aller Bankkonten soll regelmäßig veröffentlicht werden. Mitglieder des Landesverbandes können über den Kontostand eines nicht personenbezogenen Finanzkontos jederzeit Auskunft verlangen.
+<span id="F5.3">(3)</span> Die Buchführung und die Verwaltung von Bankkonten haben unter Berücksichtigung des Datenschutzes möglichst transparent zu erfolgen. Der aktuelle Kontostand aller Bankkonten soll regelmäßig veröffentlicht werden. NRW-Piraten können über den Kontostand eines nicht personenbezogenen Finanzkontos jederzeit Auskunft verlangen.
 
 <span id="F6">
 ==§6 – Rechenschaftsbericht==
@@ -320,7 +320,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO3.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
 
-<span id="SO3.2">(2)</span> Zur Gründung einer Organisationseinheit müssen mindestens drei Mitglieder des Landesverbandes Ihren Willen dazu bekunden. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde.
+<span id="SO3.2">(2)</span> Zur Gründung einer Organisationseinheit müssen mindestens drei NRW-Piraten Ihren Willen dazu bekunden. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde.
 
 <span id="SO3.3">(3)</span> Organisationseinheiten geben sich einen eindeutigen Namen. Mögliche Namensverwechslungen mit anderen Organisationseinheiten sind auszuschließen.
 
@@ -359,7 +359,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 <span id="SO6.1">(1)</span> Eine Organisationseinheit löst sich auf, wenn
 
 :<span id="SO6.1a">a)</span> sie dies mit einer 2/3-Mehrheit der bei einem Treffen anwesenden Mitglieder beschließt und sich die Organisationseinheit diesbezüglich keine anderslautenden eigenen Regelungen gegeben hat,
-:<span id="SO6.1b">b)</span> weniger als drei ihrer Mitglieder Mitglieder des Landesverbandes sind,
+:<span id="SO6.1b">b)</span> weniger als drei ihrer Mitglieder NRW-Piraten sind,
 :<span id="SO6.1c">c)</span> sie sich nicht auf mindestens einen Koordinator verständigen kann,
 :<span id="SO6.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
 :<span id="SO6.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
