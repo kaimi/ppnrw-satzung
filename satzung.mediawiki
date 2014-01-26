@@ -173,7 +173,7 @@
 ==§ 10 – Verbindlichkeit der Bundes- und Landessatzung==
 </span>
 
-<span id="S10.1">(1)</span> Die Satzungen untergeordneter Gliederungen müssen mit den grundsätzlichen Regelungen der Bundes- und Landessatzung übereinstimmen.
+<span id="S10.1">(1)</span> Die Satzungen untergeordneter Gliederungen dürfen nicht mit den Regelungen der Bundes- und Landessatzung in Konflikt stehen.
 
 <span id="S11">
 ==§ 11 – Parteiämter==
