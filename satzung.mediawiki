@@ -167,7 +167,7 @@
 
 <span id="S9.2">(2)</span> Darüberhinaus bedürfen Beschlüsse über eine Auflösung oder Verschmelzung zur Rechtskraft der Zustimmung eines Bundesparteitages.
 
-<span id="S9.3">(3)</span> Über die Auflösung eines nachgeordneten Verbandes entscheidet der Landesparteitag mit einer Mehrheit von 2/3 der abgegebenen Stimmen.
+<span id="S9.3">(3)</span> Über die Auflösung eines nachgeordneten Verbandes entscheidet der Landesparteitag mit einer Mehrheit von 3/4 der abgegebenen Stimmen.
 
 <span id="S10">
 ==§ 10 – Verbindlichkeit der Bundes- und Landessatzung==
