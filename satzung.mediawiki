@@ -302,7 +302,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 <span id="SO2.2">(2)</span> Jede Organisationseinheit unterhält eine Internetpräsenz, die der Landesverband zur Verfügung stellt, und veröffentlicht dort zeitnah insbesondere
 
 :<span id="SO2.2a">a)</span> die Mitglieder dieser Organisationseinheit (mit Pseudonym oder Klarname),
-:<span id="SO2.2b">b)</span> den Koordinator der Organisationseinheit,
+:<span id="SO2.2b">b)</span> eine E-Mail-Adresse, über welche die Organisationseinheit direkt (z.B. über eine Mailingliste oder Request-Tracker) oder indirekt (z.B. über einen Koordinator) erreicht werden kann,
 :<span id="SO2.2c">c)</span> die Termine der Treffen sowie deren Ort,
 :<span id="SO2.2d">d)</span> das Entscheidungsmodell sowie
 :<span id="SO2.2e">e)</span> Protokolle der Treffen.
@@ -338,7 +338,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO4.2">(2)</span> Sofern kein eigenes Entscheidungsmodell beschlossen wurde, gilt die einfache Mehrheit.
 
-<span id="SO4.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit mindestens einen Koordinator, der Ansprechpartner für den Vorstand und den Landesparteitag ist.
+<span id="SO4.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit eine Möglichkeit, sie zu kontaktieren.
 
 <span id="SO4.4">(4)</span> Die Organisationseinheit sollte sich selber Regelungen zu Aufnahme und Ausschluss von Mitgliedern, Auftrennung, Selbstauflösung und Zusammenschluss mit einer anderen Organisationseinheit geben.
 
@@ -360,7 +360,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 :<span id="SO6.1a">a)</span> sie dies mit einer 2/3-Mehrheit der bei einem Treffen anwesenden Mitglieder beschließt und sich die Organisationseinheit diesbezüglich keine anderslautenden eigenen Regelungen gegeben hat,
 :<span id="SO6.1b">b)</span> weniger als drei ihrer Mitglieder Mitglieder des Landesverbandes sind,
-:<span id="SO6.1c">c)</span> sie sich nicht auf mindestens einen Koordinator verständigen kann,
+:<span id="SO6.1c">c)</span> sie schwerwiegend gegen das Transparenzgebot (Strukturordnung §2) verstößt,
 :<span id="SO6.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
 :<span id="SO6.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
 
