@@ -338,7 +338,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO4.2">(2)</span> Sofern kein eigenes Entscheidungsmodell beschlossen wurde, gilt die einfache Mehrheit.
 
-<span id="SO4.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit mindestens einen Koordinator, der Ansprechpartner für den Vorstand und den Landesparteitag ist.
+<span id="SO4.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit mindestens einen Koordinator, der Ansprechpartner für den Vorstand ist.
 
 <span id="SO4.4">(4)</span> Die Organisationseinheit sollte sich selber Regelungen zu Aufnahme und Ausschluss von Mitgliedern, Auftrennung, Selbstauflösung und Zusammenschluss mit einer anderen Organisationseinheit geben.
 
