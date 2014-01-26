@@ -127,9 +127,8 @@
 :<span id="S6b.13c">c)</span> dokumentiert jede Sitzung,
 :<span id="S6b.13d">d)</span> veröffentlicht die Dokumentation seiner Sitzungen mindestens auf der Organisationsliste und seiner Internetpräsenz,
 :<span id="S6b.13e">e)</span> hält seine Beschlüsse mindestens in der Dokumentation der Sitzung fest,
-:<span id="S6b.13f">f)</span> lädt mindestens 6 Tage vorher auf seiner Internetpräsenz und der Organisationsliste zu Sitzungen ein,
-:<span id="S6b.13g">g)</span> hält die Sitzungen mindestens einmal im Monat ab und
-:<span id="S6b.13h">h)</span> fasst Beschlüsse mit mindestens einfacher Mehrheit.
+:<span id="S6b.13f">f)</span> hält die Sitzungen mindestens einmal im Monat ab und
+:<span id="S6b.13g">g)</span> fasst Beschlüsse mit mindestens einfacher Mehrheit.
 
 <span id="S6">
 ==§ 6c – Das Schiedsgericht==
