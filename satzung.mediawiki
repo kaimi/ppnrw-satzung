@@ -336,7 +336,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO4.1">(1)</span> Jede Organisationseinheit kann sich ein eigenes, basisdemokratisches Entscheidungsmodell geben, welches auf der Internetpräsenz zu veröffentlichen ist.
 
-<span id="SO4.2">(2)</span> Sofern kein eigenes Entscheidungsmodell beschlossen wurde, gilt die einfache Mehrheit.
+<span id="SO4.2">(2)</span> Sofern kein eigenes Entscheidungsmodell beschlossen wurde, gilt die einfache Mehrheit der anwesenden Mitglieder der Organisationseinheit.
 
 <span id="SO4.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit mindestens einen Koordinator, der Ansprechpartner für den Vorstand und den Landesparteitag ist.
 
