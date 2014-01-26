@@ -299,7 +299,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO2.1">(1)</span> Die Treffen aller Organisationseinheiten sind grundsätzlich öffentlich. Die Organisationseinheiten haben eine transparente Arbeitsweise sicherzustellen.
 
-<span id="SO2.2">(2)</span> Jede Organisationseinheit unterhält eine Internetpräsenz, die der Landesverband zur Verfügung stellt, und veröffentlicht dort zeitnah insbesondere
+<span id="SO2.2">(2)</span> Jede Organisationseinheit unterhält im Piraten-Wiki eine Internetpräsenz und veröffentlicht dort, in der Regel binnen 7 Tagen, insbesondere
 
 :<span id="SO2.2a">a)</span> die Mitglieder dieser Organisationseinheit (mit Pseudonym oder Klarname),
 :<span id="SO2.2b">b)</span> den Koordinator der Organisationseinheit,
