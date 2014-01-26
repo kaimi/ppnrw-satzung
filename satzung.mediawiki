@@ -187,6 +187,23 @@
 
 <span id="S12.1">(1)</span> Die Bundespartei führt ein zentrales Piratenverzeichnis. Der Landesverband kann ein eigenes Landesverzeichnis seiner Mitglieder führen. Die Gebietsverbände können eigene Verzeichnisse Ihrer Mitglieder führen. Für die sichere  Aufbewahrung, die  parteigebundene Verwendung und Nutzung unter besonderer Berücksichtigung der Privatsphäre und der Aktualisierung jeglicher Art von Daten ist Sorge zu tragen.
 
+<span id="S13">
+==§ 13 – Urabstimmung==
+</span>
+
+(2) Die Einladung zur Abstimmung erfolgt auf Antrag
+
+:(a) von mindestens einem Zehntel der stimmberechtigten Mitglieder des Landesverbandes oder 
+:(b) des Landesparteitages mit Zweidrittelmehrheit. 
+
+(3) Die Antragsschrift legt den Inhalt der Urabstimmung fest.
+
+(4) Der Landesvorstand stellt nach Eingang des Antrages fest, ob die Voraussetzungen für die Durchführung einer Urabstimmung erfüllt sind. Er ist für die unverzügliche Durchführung derselben zuständig und hat alle Mitglieder hierzu einzuladen.
+
+(5) Die Kosten der Urabstimmung trägt der Landesverband.
+
+(6) Die Durchführung regelt eine gesonderte Verordnung.
+
 
 <span id="F">
 =FINANZORDNUNG=
