@@ -324,7 +324,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO3.3">(3)</span> Organisationseinheiten geben sich einen eindeutigen Namen. Mögliche Namensverwechslungen mit anderen Organisationseinheiten sind auszuschließen.
 
-<span id="SO3.4">(4)</span> Aus dem Namen von Arbeitskreisen, Arbeitsgruppen und Projektgruppen ist der Zweck dieser Organisationseinheit zu erkennen. Sie wird entsprechend mit dem Präfix „AK“, „AG“ oder „PG“ abgekürzt und hat das Suffix „NRW“.
+<span id="SO3.4">(4)</span> Aus dem Namen von Arbeitskreisen, Arbeitsgruppen und Projektgruppen ist der Zweck dieser Organisationseinheit zu erkennen. Der Name wird entsprechend mit dem Präfix „AK“, „AG“ oder „PG“ gekennzeichnet und hat das Suffix „NRW“.
 
 <span id="SO3.5">(5)</span> Der Landesvorstand und der Landesparteitag können jederzeit und ohne Fristbindung Organisationseinheiten ins Leben rufen. Beide können Organisationseinheiten offiziell mit Aufgaben betrauen oder ihnen diese wieder entziehen.
 
