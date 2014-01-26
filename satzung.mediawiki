@@ -63,7 +63,12 @@
 ==§ 6a – Der Landesparteitag==
 </span>
 
-<span id="S6a.1">(1)</span> Der Landesparteitag ist die Mitgliederversammlung auf Landesebene. Er tagt mindestens einmal jährlich, grundsätzlich öffentlich und unter Zulassung von Gästen.
+<span id="S6a.1">(1)</span> Der Landesparteitag ist die Mitgliederversammlung auf Landesebene. Er tagt
+
+:<span id="S6a.1a>a)</span> mindestens ein Mal im Jahr,
+:<span id="S6a.1b>b)</span> innerhalb der ersten 6 Monate eines Geschäftsjahres zur Neuwahl des Landesvorstandes,
+:<span id="S6a.1c>c)</span> grundsätzlich öffentlich und
+:<span id="S6a.1d>d)</span> grundsätzlich unter Zulassung von Gästen.
 
 <span id="S6a.2">(2)</span> Die Einladung erfolgt aufgrund eines Vorstandsbeschlusses oder auf Antrag von mindestens einem Zwanzigstel der Mitglieder des Landesverbandes. Die Einladung erfolgt in Textform und hat Angaben zum Tagungsort, Tagungsbeginn, die vorläufige Tagesordnung und Angaben, wo weitere Veröffentlichungen gemacht werden, zu enthalten.
 
