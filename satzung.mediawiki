@@ -187,6 +187,23 @@
 
 <span id="S12.1">(1)</span> Die Bundespartei führt ein zentrales Piratenverzeichnis. Der Landesverband kann ein eigenes Landesverzeichnis seiner Mitglieder führen. Die Gebietsverbände können eigene Verzeichnisse Ihrer Mitglieder führen. Für die sichere  Aufbewahrung, die  parteigebundene Verwendung und Nutzung unter besonderer Berücksichtigung der Privatsphäre und der Aktualisierung jeglicher Art von Daten ist Sorge zu tragen.
 
+<span id="S13">
+==§ 13 – Pressearbeit==
+</span>
+
+Für öffentliche Aussagen im Namen der Piratenpartei Deutschland gelten die folgenden Regelungen:
+
+<span id="S13.1">(1)</span> Pressemitteilungen im Namen der Piratenpartei Deutschland sollen durch die SG Presse oder den Bundespressesprecher herausgegeben werden.
+
+<span id="S13.2">(2)</span> Mitteilungen, die eine offizielle Aussage der Piratenpartei Deutschland sind, müssen durch Grundsatzprogramm oder aktuelles Bundestagswahlprogramm gedeckt sein.
+
+<span id="S13.3">(3)</span> Die Piratenpartei Deutschland wird nach außen primär durch den Vorstand sowie zu diesem Zweck vom Vorstand oder dem Bundesparteitag beauftragte Personen oder Gruppen vertreten. Weiterhin haben Pressesprecher von Landes- und Kreisverbänden sowie Direkt- und Listenkandidaten die Möglichkeit, die Piratenpartei durch Pressemitteilungen oder andere öffentliche Äußerungen zu repräsentieren.
+
+Meinungen, welche vom Grundsatzprogramm oder dem Bundestagswahlprogramm abweichen, müssen als solche gekennzeichnet werden und sind nicht offizielle Aussage der Piratenpartei Deutschland. 4. Dokumentierte Arbeitsstände von AGs, Positionspapiere, politische Standpunkte, Meinungen und Visionen müssen als solche gekennzeichnet sein. Sofern diese Grundsatzprogramm oder Bundestagswahlprogramm widersprechen, muss dies zusätzlich dargestellt werden.
+
+<span id="S13.4">(4)</span> Persönliche Meinungen einzelner Piraten oder Gruppen innerhalb der Piratenpartei müssen im Rahmen von Pressemitteilungen oder anderen öffentliche Äußerungen gegebenenfalls als programmatisch nicht abgedeckt gekennzeichnet sein.
+
+Es ist darauf hinzuweisen, dass es sich nicht um eine offizielle Aussage der Piratenpartei Deutschland handelt. 6. Äußerungen, welcher der Satzung widersprechen, dürfen nicht in einer Form geäußert werden, welche den Eindruck erwecken, dass dies eine Meinung der Piratenpartei
 
 <span id="F">
 =FINANZORDNUNG=
