@@ -93,7 +93,7 @@
 
 <span id="S6b.3">(3)</span> Die Mitglieder des Landesvorstandes werden mindestens einmal im Kalenderjahr vom Landesparteitag gewählt. Der Landesvorstand bleibt bis zur Wahl eines neuen Landesvorstands im Amt.
 
-<span id="S6b.4">(4)</span> Der Landesvorstand tagt grundsätzlich öffentlich.
+<span id="S6b.4">(4)</span> Der Landesvorstand tagt grundsätzlich öffentlich. Der Antrag auf eine nichtöffentliche Sitzung oder einen nichtöffentlichen Sitzungsteil bedarf einer Begründung, die der Öffentlichkeit zeitgleich mit dem Antrag mitzuteilen ist. Auch während der nichtöffentlichen Sitzung beziehungsweise des nicht öffentlichen Sitzungsteils ist ein Protokoll zu führen. Dieses Protokoll ist anschließend zusammen mit dem Protokoll des öffentlichen Teils zu veröffentlichen, gegebenenfalls entsprechend anonymisiert und/oder mit einem geeigneten zeitlichen Versatz, um den Datenschutz-Erfordernissen Rechnung zu tragen.
 
 <span id="S6b.5">(5)</span> Auf Antrag eines Zwanzigstels der Mitglieder des Landesverbandes kann der Landesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
 
