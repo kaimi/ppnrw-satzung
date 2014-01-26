@@ -17,9 +17,13 @@
 
 <span id="S2.1">(1)</span> Die Mitgliedschaft, ihr Erwerb und ihre Beendigung werden durch die Bundessatzung geregelt.
 
-<span id="S2.2">(2)</span> Ein Mitglied des Landesverbandes kann seine Zugehörigkeit zu einer Gliederung seiner Wahl innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
-:<span id="S2.2a">a)</span> zum Jahreswechsel,
-:<span id="S2.2b">b)</span> bei Gründung eines Gebietsverbandes dessen Tätigkeitsgebiet seinen Wohnsitz einschließt.
+<span id="S2.2">(2)</span> Ein Mitglied des Landesverbandes kann seine Zugehörigkeit zu
+:<span id="S2.2a">a) einer Gliederung seiner Wahl oder
+:<span id="S2.2b">b) einem durch die politischen Grenzen gegebenen Gebiet seiner Wahl, in dem die Gründung einer Gliederung möglich wäre,
+
+innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
+:<span id="S2.2aa">a)</span> zum Jahreswechsel,
+:<span id="S2.2bb">b)</span> bei Gründung eines Gebietsverbandes dessen Tätigkeitsgebiet seinen Wohnsitz oder das Gebiet, dem es aktuell zugehörig ist, einschließt.
 
 <span id="S2.3">(3)</span> Die Mitgliedschaft umfasst immer die gewählte Gliederung, sowie alle vorgeordneten Verbände.
 
