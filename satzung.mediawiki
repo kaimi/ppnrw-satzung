@@ -45,9 +45,9 @@
 
 <span id="S5.1">(1)</span> Der Landesverband gliedert sich in Bezirks- (Regierungsbezirke), Kreis- (Landkreise, kreisfreie Städte, Städteregionen) und Ortsverbände (Stadtbezirke, Stadtteile, Gemeinden).
 
-<span id="S5.2">(2)</span> Zusammenschlüsse von geografisch angrenzenden Kreisen und kreisfreien Städten sind innerhalb von Bezirksgrenzen erlaubt und heißen Regionalverbände. Diese zeichnen sich durch einen gemeinsamen Vorstand, eine gemeinsame Verwaltung und eine gemeinsame Mitgliederversammlung aus.
+<span id="S5.2">(2)</span> Zusammenschlüsse von geografisch angrenzenden Kreisen, kreisfreien Städten oder Städteregionen sind innerhalb von Bezirksgrenzen erlaubt und heißen Regionalverbände. Diese zeichnen sich durch einen gemeinsamen Vorstand, eine gemeinsame Verwaltung und eine gemeinsame Mitgliederversammlung aus.
 
-<span id="S5.3">(3)</span> Ein Regionalverband gilt als gegründet, wenn bei allen Mitgliedervollversammlungen der beteiligten Verbände jeweils mindestens doppelt so viele gültige Stimmen dafür wie gültige Stimmen dagegen abgegeben werden. Die Mitgliederversammlungen müssen diese Beschlüsse mit einem zeitlichen Abstand von maximal drei Monaten und im selben Kalenderjahr fassen. Der Zusammenschluss gilt ab dem ersten Kalenderquartal nach der letzten Beschlussfassung.
+<span id="S5.3">(3)</span> Ein Regionalverband gilt als gegründet, wenn bei allen Mitgliedervollversammlungen der beteiligten Kreise, kreisfreien Städte oder Städteregionen jeweils mindestens doppelt so viele gültige Stimmen dafür wie gültige Stimmen dagegen abgegeben werden. Die Mitgliederversammlungen müssen diese Beschlüsse mit einem zeitlichen Abstand von maximal drei Monaten und im selben Kalenderjahr fassen. Der Zusammenschluss gilt ab dem ersten Kalenderquartal nach der letzten Beschlussfassung.
 
 <span id="S5.4">(4)</span> Für den Austritt eines Gebietes aus einem Regionalverband sind mindestens doppelt so viele gültige Stimmen der Mitglieder des jeweiligen Gebietes dafür wie gültige Stimmen dagegen notwendig. Der Austritt wird mit dem nächsten Kalenderquartal gültig.
 
