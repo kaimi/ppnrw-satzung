@@ -141,9 +141,7 @@
 ==§ 7 – Bewerberaufstellung für die Wahlen zu Volksvertretungen==
 </span>
 
-<span id="S7.1">(1)</span> Für die Aufstellung der Bewerber für Wahlen zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze und der Bundessatzung. Bewerber müssen Mitglied im Landesverband sein.
-
-<span id="S7.2">(2)</span> Für Kommunalwahlen können auch Nicht-Parteimitglieder für die Piratenpartei aufgestellt werden.
+<span id="S7.1">(1)</span> Für die Aufstellung der Bewerber für Wahlen zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze und der Bundessatzung. Bewerber müssen Mitglied im Landesverband sein. Mit Ausnahme von Kommunalwahlen müssen Bewerber NRW-Pirat sein.
 
 <span id="S7.2">(2)</span> Die Aufstellung von Landeslisten zu Europa-, Bundestags- sowie Landtagswahlen finden im Rahmen eines Landesparteitages statt.
 
