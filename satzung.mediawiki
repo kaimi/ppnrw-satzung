@@ -307,7 +307,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 :<span id="SO2.2d">d)</span> das Entscheidungsmodell sowie
 :<span id="SO2.2e">e)</span> Protokolle der Treffen.
 
-<span id="SO2.3">(3)</span> Treffen sind zu protokollieren und zeitnah auf der Organisationsliste zu veröffentlichen
+<span id="SO2.3">(3)</span> Treffen sind zeitnah zu protokollieren und in der Regel binnen 7 Tagen auf der Organisationsliste zu veröffentlichen
 
 :<span id="SO2.3a">a)</span> bei der Gründung,
 :<span id="SO2.3b">b)</span> bei der Planung von Aktionen,
