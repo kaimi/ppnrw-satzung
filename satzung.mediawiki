@@ -262,7 +262,12 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 
 <span id="F6.1">(1)</span> Der Landesvorstand hat über Höhe, Herkunft und Verwendung des Vermögens des Landesverbandes zum Ende eines Geschäftsjahres Rechenschaft abzulegen. Dieses muss binnen drei Monaten nach Jahreswechsel erfolgt sein.
 
-<span id="F6.2">(2)</span> Alle Untergliederungen haben nach Vorgabe des Bundesschatzmeisters dem Schatzmeister der vorgegliederten Ebene ihren Rechenschaftsbericht und ihre Steuererklärung abzugeben.
+<span id="F6.2">(2)</span> Alle Untergliederungen haben
+
+:<span id="F6.2a>a)</span> ihre Steuererklärung nach Vorgabe des Bundesschatzmeisters und
+:<span id="F6.2b>b)</span> ihren Rechenschaftsbericht nach Vorgabe des Schatzmeisters der vorgegliederten Gliederung und des Bundesschatzmeisters
+
+dem Schatzmeister der vorgegliederten Gliederung abzugeben.
 
 <span id="F6.3">(3)</span> Bei finanziellen Schäden, die in Folge eines fehlenden oder fehlerhaften Rechenschaftsberichts oder einer fehlenden oder fehlerhaften Steuererklärung entstehen, hat die jeweilige Untergliederung unabhängig von Sanktionen nach dem Parteiengesetz für den entstandenen Schaden aufzukommen. Der Landesverband kann zur Begleichung eines Schadens die der Untergliederung zugewiesenen Mittel im Folgenden entsprechend reduzieren.
 
