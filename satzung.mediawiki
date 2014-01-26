@@ -15,7 +15,7 @@
 ==§ 2 – Mitgliedschaft==
 </span>
 
-<span id="S2.1">(1)</span> Die Mitgliedschaft, ihr Erwerb und ihre Beendigung werden durch die Bundessatzung geregelt.
+<span id="S2.1">(1)</span> Die Mitgliedschaft, ihr Erwerb und ihre Beendigung werden durch die Bundessatzung geregelt. Ergänzend dazu sind Organisationen, deren Zielsetzung den Zielen der Piratenpartei Deutschland widersprechen, in Anhang D (Unvereinbarkeit) aufgeführt. Die Mitgliedschaft in einer der in Anhang D genannten Organisationen ist mit einer Mitgliedschaft in der Piratenpartei nicht vereinbar und schadet dem öffentlichen Ansehen der Piratenpartei. Wird solch eine Mitgliedschaft bekannt, so muss der Vorstand ein Partei-Ausschlussverfahrens einleiten.
 
 <span id="S2.2">(2)</span> Ein Mitglied des Landesverbandes kann seine Zugehörigkeit zu einer Gliederung seiner Wahl innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 :<span id="S2.2a">a)</span> zum Jahreswechsel,
@@ -426,3 +426,9 @@ Kreisverbände können durch Beschluss ihrer Kreisparteitage beschließen, sich 
 </span>
 
 Der Landesverband gibt aus der staatlichen Teilfinanzierung 50% des Anteils in den Länderfinanzausgleichstopf der die eigenen Einnahmen gem §18(2) und §19a(5) PartG übersteigt. Die weiteren 50% des übersteigenden Anteils können bei Bedarf und falls es die finanzielle Planung des LV NRW erlaubt, ebenfalls in den Länderfinanzausgleichstopf gehen. Diese Entscheidung über die entgültige Höhe sollte auf dem ersten LPT eines jeden Jahres erfolgen. 
+
+<span id="D">
+=ANHANG D: UNVEREINBARKEIT=
+</span>
+
+Als unvereinbar mit den Zielen der Piratenpartei Deutschland wird die Mitgliedschaft in folgenden Organisationen angesehen:
