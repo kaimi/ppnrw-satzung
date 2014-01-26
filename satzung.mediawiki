@@ -43,7 +43,7 @@
 ==§ 5 – Gliederung==
 </span>
 
-<span id="S5.1">(1)</span> Der Landesverband gliedert sich in Bezirks- (Regierungsbezirke), Kreis- (Landkreise, kreisfreie Städte, Städteregionen) und Ortsverbände (Stadtbezirke, Stadtteile, Gemeinden).
+<span id="S5.1">(1)</span> Der Landesverband gliedert sich in Bezirks- (Regierungsbezirke), Regional-, Kreis- (Landkreise, kreisfreie Städte, Städteregionen) und Ortsverbände (Stadtbezirke, Stadtteile, Gemeinden).
 
 <span id="S5.2">(2)</span> Zusammenschlüsse von geografisch angrenzenden Kreisen und kreisfreien Städten sind innerhalb von Bezirksgrenzen erlaubt und heißen Regionalverbände. Diese zeichnen sich durch einen gemeinsamen Vorstand, eine gemeinsame Verwaltung und eine gemeinsame Mitgliederversammlung aus.
 
