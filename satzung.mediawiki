@@ -220,7 +220,7 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 
 :<span id="F4.1a">a)</span> allen Zuweisungen unterliegen zunächst einem Rückstellungsrecht des Landesschatzmeisters. Zurückgestellte Mittel müssen nach ihrer Auflösung dem eigentlichen Zweck oder Empfänger zugeleitet werden,
 :<span id="F4.1b">b)</span> Mitgliedsbeiträgen werden nach Abzug der an den Bundesverband abzuführenden Mittel nach dem Schlüssel aus Anhang A verteilt. Existiert kein zuständiger Bezirksverband, verbleiben die Mittel hierfür beim Landesverband, existiert kein zuständiger Ortsverband, verbleiben die Mittel hierfür beim Kreisverband bzw. virtuellen Kreisverband. Regionalverbände erhalten die addierten Mittel der zusammengeschlossenen Verbände.
-:<span id="F4.1c">c)</span> der staatlichen Teilfinanzierung werden durch den Länderfinanzausgleich gemäß Anhang C und der verbleibende Teil nach dem Schlüssel aus Anhang B verteilt. Sofern im Länderfinanzausgleich der sich aus der Bundessatzung ergibt, kein Anteil für die Bundespartei enthalten ist.
+:<span id="F4.1c">c)</span> der staatlichen Teilfinanzierung werden durch den Länderfinanzausgleich gemäß Bundessatzung und der verbleibende Teil nach dem Schlüssel aus Anhang B verteilt.
 :<span id="F4.1d">d)</span> sonstigen Zuweisungen werden vom Landesvorstand im sog. LV-Budget verwaltet und können für Aktivitäten auf Antrag per Vorstandsbeschluss zugewiesen werden.
 
 <span id="F4.2">(2)</span> Die Kreisverbände haben für eine angemessene Finanzausstattung ihrer Ortsverbände Sorge zu tragen. Existiert oberhalb des Ortsverbandes kein Kreisverband, so übernimmt diese Aufgabe der Landesverband.
@@ -420,9 +420,3 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 Nicht genutzte, beim Landesverband für Werbemittel zweckgebundene Mittel sind nach zwei Jahren entsprechend der ursprünglichen Aufteilung an die jeweiligen Verbände auszuschütten.
 
 Kreisverbände können durch Beschluss ihrer Kreisparteitage beschließen, sich nicht an der solidarischen Werbemittel- und Eventfinanzierung zu beteiligen. Sie sind in diesem Fall von Werbemittelzuteilungen auszuschließen, können jedoch selbige beim Landesverband einkaufen. Events der jeweiligen Gliederung werden nicht mehr aus dem der Solidarfinanzierung finanziert.
-
-<span id="C">
-=ANHANG C=
-</span>
-
-Der Landesverband gibt aus der staatlichen Teilfinanzierung 50% des Anteils in den Länderfinanzausgleichstopf der die eigenen Einnahmen gem §18(2) und §19a(5) PartG übersteigt. Die weiteren 50% des übersteigenden Anteils können bei Bedarf und falls es die finanzielle Planung des LV NRW erlaubt, ebenfalls in den Länderfinanzausgleichstopf gehen. Diese Entscheidung über die entgültige Höhe sollte auf dem ersten LPT eines jeden Jahres erfolgen. 
