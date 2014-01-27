@@ -18,8 +18,8 @@
 <span id="S2.1">(1)</span> Die Mitgliedschaft, ihr Erwerb und ihre Beendigung werden durch die Bundessatzung geregelt.
 
 <span id="S2.2">(2)</span> Ein Mitglied des Landesverbandes kann seine Zugehörigkeit zu
-:<span id="S2.2a">a) einer Gliederung seiner Wahl oder
-:<span id="S2.2b">b) einem durch die politischen Grenzen gegebenen Gebiet seiner Wahl, in dem die Gründung einer Gliederung möglich wäre,
+:<span id="S2.2a">a)</span> einer Gliederung seiner Wahl oder
+:<span id="S2.2b">b)</span> einem durch die politischen Grenzen gegebenen Gebiet seiner Wahl, in dem die Gründung einer Gliederung möglich wäre,
 
 innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 :<span id="S2.2aa">a)</span> zum Jahreswechsel,
@@ -208,69 +208,70 @@ Gegebenenfalls wird die Abstimmung solange zurückgestellt und ein anderer Tages
 =FINANZORDNUNG=
 </span>
 
-<span id="F1">
-==§1 – Gültigkeit==
+<span id="F13">
+==§13 – Gültigkeit==
 </span>
 
 Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroffenen Regelungen erweitern die Finanzverwaltung auf Landesebene.
 
-<span id="F2">
-==§2 – Begriffe==
+<span id="F14">
+==§14 – Begriffe==
 </span>
 
-<span id="F2.1">(1)</span> Das Geschäftsjahr ist das Kalenderjahr.
+<span id="F14.1">(1)</span> Das Geschäftsjahr ist das Kalenderjahr.
 
-<span id="F2.2">(2)</span> „Kreise“ im Sinne dieser Finanzordnung sind alle Landkreise, kreisfreien Städte und Städteregionen des Landes Nordrhein-Westfalen.
+<span id="F14.2">(2)</span> „Kreise“ im Sinne dieser Finanzordnung sind alle Landkreise, kreisfreien Städte und Städteregionen des Landes Nordrhein-Westfalen.
 
-<span id="F3">
-==§3 – Virtuelle Kreisverbände==
+<span id="F15">
+==§15 – Virtuelle Kreisverbände==
 </span>
 
-<span id="F3.1">(1)</span> Basierend auf den politischen Grenzen werden für alle Kreise ohne existierenden Kreisverband Konten in der Buchhaltung geschaffen (virtuelle Kreisverbände). Auf diese Konten werden alle Finanzen gebucht, die einem tatsächlich existierenden Kreisverband zustünden.
+<span id="F15.1">(1)</span> Basierend auf den politischen Grenzen werden für alle Kreise ohne existierenden Kreisverband Konten in der Buchhaltung geschaffen (virtuelle Kreisverbände). Auf diese Konten werden alle Finanzen gebucht, die einem tatsächlich existierenden Kreisverband zustünden.
 
-<span id="F4">
-==§4 – Verteilung und Verwendung der Finanzmittel==
+<span id="F16">
+==§16 – Verteilung und Verwendung der Finanzmittel==
 </span>
 
-<span id="F4.1">(1)</span> Die Finanzmittel aus
+<span id="F16.1">(1)</span> Die Finanzmittel aus
 
-:<span id="F4.1a">a)</span> allen Zuweisungen unterliegen zunächst einem Rückstellungsrecht des Landesschatzmeisters. Zurückgestellte Mittel müssen nach ihrer Auflösung dem eigentlichen Zweck oder Empfänger zugeleitet werden,
-:<span id="F4.1b">b)</span> Mitgliedsbeiträgen werden nach Abzug der an den Bundesverband abzuführenden Mittel nach dem Schlüssel aus Anhang A verteilt. Existiert kein zuständiger Bezirksverband, verbleiben die Mittel hierfür beim Landesverband, existiert kein zuständiger Ortsverband, verbleiben die Mittel hierfür beim Kreisverband bzw. virtuellen Kreisverband. Regionalverbände erhalten die addierten Mittel der zusammengeschlossenen Verbände.
-:<span id="F4.1c">c)</span> der staatlichen Teilfinanzierung, die nach der Durchführung des sich aus der Bundessatzung ergebenden Länderfinanzausgleichs verbleiben oder erworben werden, werden nach Anhang B verteilt. Dabei sind die Werte zu Beginn des Geschäftsjahres für die Schlüssel maßgebend.
-:<span id="F4.1d">d)</span> sonstigen Zuweisungen werden vom Landesvorstand im sogenannten LV-Budget verwaltet.
+:<span id="F16.1a">a)</span> allen Zuweisungen unterliegen zunächst einem Rückstellungsrecht des Landesschatzmeisters. Zurückgestellte Mittel müssen nach ihrer Auflösung dem eigentlichen Zweck oder Empfänger zugeleitet werden,
+:<span id="F16.1b">b)</span> Mitgliedsbeiträgen werden nach Abzug der an den Bundesverband abzuführenden Mittel nach dem Schlüssel aus Anhang A verteilt. Existiert kein zuständiger Bezirksverband, verbleiben die Mittel hierfür beim Landesverband, existiert kein zuständiger Ortsverband, verbleiben die Mittel hierfür beim Kreisverband bzw. virtuellen Kreisverband. Regionalverbände erhalten die addierten Mittel der zusammengeschlossenen Verbände.
+:<span id="F16.1c">c)</span> der staatlichen Teilfinanzierung, die nach der Durchführung des sich aus der Bundessatzung ergebenden Länderfinanzausgleichs verbleiben oder erworben werden, werden nach Anhang B verteilt. Dabei sind die Werte zu Beginn des Geschäftsjahres für die Schlüssel maßgebend.
+:<span id="F16.1d">d)</span> sonstigen Zuweisungen werden vom Landesvorstand im sogenannten LV-Budget verwaltet.
 
-<span id="F4.2">(2)</span> Die Kreisverbände haben für eine angemessene Finanzausstattung ihrer Ortsverbände Sorge zu tragen. Existiert oberhalb des Ortsverbandes kein Kreisverband, so übernimmt diese Aufgabe der Landesverband.
+<span id="F16.2">(2)</span> Die Kreisverbände haben für eine angemessene Finanzausstattung ihrer Ortsverbände Sorge zu tragen. Existiert oberhalb des Ortsverbandes kein Kreisverband, so übernimmt diese Aufgabe der Landesverband.
 
-<span id="F4.3">(3)</span> Das LV-Budget
+<span id="F16.3">(3)</span> Das LV-Budget
 
-:<span id="F4.3a">a)</span> kann der Landesparteitag auf Antrag einer Organisationseinheit, eines Mitglieds des Landesverbandes oder einer Gruppe von Mitgliedern des Landesverbandes teilweise oder als Ganzes zweckbinden,
-:<span id="F4.3b">b)</span> erhält die verbliebenen Finanzmittel zurück, wenn die zweckmäßige Verwendung zweckgebundener Mittel nicht mehr möglich ist,
-:<span id="F4.3c">c)</span> wird zwischen den Landesparteitagen vom Landesvorstand verwaltet. Konkrete Ausgaben aus diesem können auf Antrag per Vorstandsbeschluss genehmigt werden. Bei einer Ausgabenhöhe bis 250,- € ist die Zustimmung des Landesschatzmeisters ausreichend.
-:<span id="F4.3d">d)</span> darf vom Vorstand nur mit einem Beschluss mit absoluter Mehrheit an Unternehmen, an denen Vorstandsmitglieder zu mehr als 5% direkt beteiligt oder angestellt sind, vergeben werden, wenn dieser 2500,- € übersteigt. Werden 2500,- € überstiegen, so müssen Vergleichsangebote eingeholt und anonymisiert veröffentlichen werden. Die Entscheidungsfindung ist transparent zu veröffentlichen.
+:<span id="F16.3a">a)</span> kann der Landesparteitag auf Antrag einer Organisationseinheit, eines Mitglieds des Landesverbandes oder einer Gruppe von Mitgliedern des Landesverbandes teilweise oder als Ganzes zweckbinden,
+:<span id="F16.3b">b)</span> erhält die verbliebenen Finanzmittel zurück, wenn die zweckmäßige Verwendung zweckgebundener Mittel nicht mehr möglich ist,
+:<span id="F16.3c">c)</span> wird zwischen den Landesparteitagen vom Landesvorstand verwaltet. Konkrete Ausgaben aus diesem können auf Antrag per Vorstandsbeschluss genehmigt werden. Bei einer Ausgabenhöhe bis 250,- € ist die Zustimmung des Landesschatzmeisters ausreichend.
+:<span id="F16.3d">d)</span> darf vom Vorstand nur mit einem Beschluss mit absoluter Mehrheit an Unternehmen, an denen Vorstandsmitglieder zu mehr als 5% direkt beteiligt oder angestellt sind, vergeben werden, wenn dieser 2500,- € übersteigt. Werden 2500,- € überstiegen, so müssen Vergleichsangebote eingeholt und anonymisiert veröffentlichen werden. Die Entscheidungsfindung ist transparent zu veröffentlichen.
 
-<span id="F4.4">(4)</span> Mittel der Finanzkonten virtueller Kreisverbände
+<span id="F16.4">(4)</span> Mittel der Finanzkonten virtueller Kreisverbände
 
-:<span id="F4.4a">a)</span> kann jede Gruppe von Piraten mit mindestens drei Mitgliedern des Landesverbandes, von denen mindestens zwei ihren Wohnsitz im virtuellen Kreisverband haben beim Landesvorstand zweckgebunden beantragen. Der Landesvorstand soll der Budgetzuteilung in der Regel zustimmen,
-:<span id="F4.4b">b)</span> müssen in ihrer Verwendung dem zugeordneten Kreis zu Gute kommen,
-:<span id="F4.4c">c)</span> gehen bei Gründung entsprechender Kreisverbände in deren Besitz über,
-:<span id="F4.4d">d)</span> des jeweils letzten Geschäftsjahres können vom Landesparteitag ganz oder teilweise anderweitig zugewiesen werden, wenn dort im Vorjahr keine Verwendung zu verzeichnen war. Wird spätestens eine Woche vor dem Landesparteitag dem Landesvorstand eine zukünftige Verwendung von Finanzmitteln in Textform angezeigt, soll in der Regel von dieser Zuweisung abgesehen werden.
+:<span id="F16.4a">a)</span> kann jede Gruppe von Piraten mit mindestens drei Mitgliedern des Landesverbandes, von denen mindestens zwei ihren Wohnsitz im virtuellen Kreisverband haben beim Landesvorstand zweckgebunden beantragen. Der Landesvorstand soll der Budgetzuteilung in der Regel zustimmen,
+:<span id="F16.4b">b)</span> müssen in ihrer Verwendung dem zugeordneten Kreis zu Gute kommen,
+:<span id="F16.4c">c)</span> gehen bei Gründung entsprechender Kreisverbände in deren Besitz über,
+:<span id="F16.4d">d)</span> des jeweils letzten Geschäftsjahres können vom Landesparteitag ganz oder teilweise anderweitig zugewiesen werden, wenn dort im Vorjahr keine Verwendung zu verzeichnen war. Wird spätestens eine Woche vor dem Landesparteitag dem Landesvorstand eine zukünftige Verwendung von Finanzmitteln in Textform angezeigt, soll in der Regel von dieser Zuweisung abgesehen werden.
 
-<span id="F4.5">(5)</span> Spenden
+<span id="F16.5">(5)</span> Spenden
 
-:<span id="F4.5a">a)</span> können für die Verwendung in einem virtuellen Kreisverband gekennzeichnet werden,
-:<span id="F4.5b">b)</span> können zweckgebunden zur Verwendung durch eine Organisationseinheit gekennzeichnet werden,
-:<span id="F4.5c">c)</span> fallen bei Wegfall einer Organisationseinheit oder bei nicht mehr möglicher zweckmäßiger Verwendung an den Landesverband.
+:<span id="F16.5a">a)</span> können für die Verwendung in einem virtuellen Kreisverband gekennzeichnet werden,
+:<span id="F16.5b">b)</span> können zweckgebunden zur Verwendung durch eine Organisationseinheit gekennzeichnet werden,
+:<span id="F16.5c">c)</span> fallen bei Wegfall einer Organisationseinheit oder bei nicht mehr möglicher zweckmäßiger Verwendung an den Landesverband.
 
-<span id="F4.6">(6)</span> Alle Organe des Landesverbandes sowie die Kassenprüfer können jederzeit Rechenschaft über Ausgaben aller Gliederungen verlangen.
+<span id="F16.6">(6)</span> Alle Organe des Landesverbandes sowie die Kassenprüfer können jederzeit Rechenschaft über Ausgaben aller Gliederungen verlangen.
 
-<span id="F4.7">(7)</span> Der Landesvorstand hat jährlich, rechtzeitig vor dem Zeitpunkt, der in der Bundesfinanzordnung § 15 (3) benannt ist, die Festsetzung des Landesanteils am Länderfinanzausgleich gegenüber dem Bundesvorstand anzuzeigen. Dabei ist ein diesbezüglicher Beschluss eines Landesparteitags über die Höhe des Anteils bindend, bei einem Anteil höher als der Regelbetrag verpflichtend. Die Anzeige ist im Vorfeld mit Begründung zu veröffentlichen.
+<span id="F16.7">(7)</span> Der Landesvorstand hat jährlich, rechtzeitig vor dem Zeitpunkt, der in der Bundesfinanzordnung § 15 (3) benannt ist, die Festsetzung des Landesanteils am Länderfinanzausgleich gegenüber dem Bundesvorstand anzuzeigen. Dabei ist ein diesbezüglicher Beschluss eines Landesparteitags über die Höhe des Anteils bindend, bei einem Anteil höher als der Regelbetrag verpflichtend. Die Anzeige ist im Vorfeld mit Begründung zu veröffentlichen.
 
-<span id="F5">
+<span id="F17">
 ==§5 – Verwaltung und Buchführung==
 </span>
 
-<span id="F5.1">(1)</span> Für die Verwaltung der Finanzen ist der Schatzmeister verantwortlich. Er führt Bankkonten im Namen des Landesverbandes und kann weiteren Mitgliedern Verfügungsberechtigung über Konten erteilen oder entziehen.
+<span id="F17.1">(1)</span> Für die Verwaltung der Finanzen ist der Schatzmeister verantwortlich. Er führt Bankkonten im Namen des Landesverbandes und kann weiteren Mitgliedern Verfügungsberechtigung über Konten erteilen oder entziehen.
 
+<span id="F17.2">(2)</span> Der Landesschatzmeister verwaltet alle virtuellen Kreisverbände und beschlossenen Budgets auf Finanzkonten.
 Der Landesschatzmeister legt bis zum 30. November eines Jahres einen Entwurf für einen Finanz- und Budgetplan für das Folgejahr vor, der in Anlehnung an § 24 (4), (5) PartG zumindest folgende Punkte beinhaltet:
 
 Auf der Einnahmenseite:
@@ -288,21 +289,21 @@ Auf der Ausgabenseite:
 
 Die Ausgabenplanung erfolgt unter Berücksichtigung des "Anhang B" der Landessatzung. Bestenfalls beinhaltet die Vorausschau verschiedene Szenarien (z. B. best / normal / worst case). Der Landesvorstand berät diesen vorgelegten Entwurf und bescheidet selbigen spätestens bis zum 31. Januar des Jahres, für den der Finanzplan gelten soll.
 
-<span id="F5.2">(2)</span> Der Landesschatzmeister verwaltet alle virtuellen Kreisverbände und beschlossenen Budgets auf Finanzkonten.
+<span id="F17.2">(2)</span> Der Landesschatzmeister verwaltet alle virtuellen Kreisverbände und beschlossenen Budgets auf Finanzkonten.
 
-<span id="F5.3">(3)</span> Die Buchführung und die Verwaltung von Bankkonten haben unter Berücksichtigung des Datenschutzes möglichst transparent zu erfolgen. Der aktuelle Kontostand aller Bankkonten soll regelmäßig veröffentlicht werden. Mitglieder des Landesverbandes können über den Kontostand eines nicht personenbezogenen Finanzkontos jederzeit Auskunft verlangen.
+<span id="F17.3">(3)</span> Die Buchführung und die Verwaltung von Bankkonten haben unter Berücksichtigung des Datenschutzes möglichst transparent zu erfolgen. Der aktuelle Kontostand aller Bankkonten soll regelmäßig veröffentlicht werden. Mitglieder des Landesverbandes können über den Kontostand eines nicht personenbezogenen Finanzkontos jederzeit Auskunft verlangen.
 
-<span id="F6">
-==§6 – Rechenschaftsbericht==
+<span id="F18">
+==§18 – Rechenschaftsbericht==
 </span>
 
-<span id="F6.1">(1)</span> Der Landesvorstand hat über Höhe, Herkunft und Verwendung des Vermögens des Landesverbandes zum Ende eines Geschäftsjahres Rechenschaft abzulegen. Dieses muss binnen drei Monaten nach Jahreswechsel erfolgt sein.
+<span id="F18.1">(1)</span> Der Landesvorstand hat über Höhe, Herkunft und Verwendung des Vermögens des Landesverbandes zum Ende eines Geschäftsjahres Rechenschaft abzulegen. Dieses muss binnen drei Monaten nach Jahreswechsel erfolgt sein.
 
-<span id="F6.2">(2)</span> Alle Untergliederungen haben nach Vorgabe des Bundesschatzmeisters dem Schatzmeister der vorgegliederten Ebene ihren Rechenschaftsbericht und ihre Steuererklärung abzugeben.
+<span id="F18.2">(2)</span> Alle Untergliederungen haben nach Vorgabe des Bundesschatzmeisters dem Schatzmeister der vorgegliederten Ebene ihren Rechenschaftsbericht und ihre Steuererklärung abzugeben.
 
-<span id="F6.3">(3)</span> Bei finanziellen Schäden, die in Folge eines fehlenden oder fehlerhaften Rechenschaftsberichts oder einer fehlenden oder fehlerhaften Steuererklärung entstehen, hat die jeweilige Untergliederung unabhängig von Sanktionen nach dem Parteiengesetz für den entstandenen Schaden aufzukommen. Der Landesverband kann zur Begleichung eines Schadens die der Untergliederung zugewiesenen Mittel im Folgenden entsprechend reduzieren.
+<span id="F18.3">(3)</span> Bei finanziellen Schäden, die in Folge eines fehlenden oder fehlerhaften Rechenschaftsberichts oder einer fehlenden oder fehlerhaften Steuererklärung entstehen, hat die jeweilige Untergliederung unabhängig von Sanktionen nach dem Parteiengesetz für den entstandenen Schaden aufzukommen. Der Landesverband kann zur Begleichung eines Schadens die der Untergliederung zugewiesenen Mittel im Folgenden entsprechend reduzieren.
 
-<span id="F6.4">(4)</span> Liefert eine Untergliederung bis zum Stichtag keinen Rechenschaftsbericht oder keine Steuererklärung, friert der Landesverband alle weiteren Zahlungen an die Gliederung ein und übernimmt automatisch kommissarisch die Verwaltung ihrer Finanzen, bis der Bericht verfasst wurde. Gleichzeitig kann durch den Landesschatzmeister zum Landesparteitag der Antrag auf Auflösung des jeweiligen Verbandes gestellt werden. Bei Auflösung fallen alle Mittel dieses Verbandes an die betreffenden virtuellen oder tatsächlichen Kreisverbandsbudgets.
+<span id="F18.4">(4)</span> Liefert eine Untergliederung bis zum Stichtag keinen Rechenschaftsbericht oder keine Steuererklärung, friert der Landesverband alle weiteren Zahlungen an die Gliederung ein und übernimmt automatisch kommissarisch die Verwaltung ihrer Finanzen, bis der Bericht verfasst wurde. Gleichzeitig kann durch den Landesschatzmeister zum Landesparteitag der Antrag auf Auflösung des jeweiligen Verbandes gestellt werden. Bei Auflösung fallen alle Mittel dieses Verbandes an die betreffenden virtuellen oder tatsächlichen Kreisverbandsbudgets.
 
 <span id="SO">
 =STRUKTURORDNUNG=
@@ -314,123 +315,124 @@ Die Ausgabenplanung erfolgt unter Berücksichtigung des "Anhang B" der Landessat
 
 Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams zumeist besser erledigen lassen. Für solche Gruppierungen (Organisationseinheiten) soll diese Ordnung ähnliche Voraussetzungen schaffen ohne die Individualität einer solchen Gruppe zu beschneiden.
 
-<span id="SO1">
-==§1 – Begriffe==
+
+<span id="SO19">
+==§19 – Begriffe==
 </span>
 
-<span id="SO1.1">(1)</span> Organisationseinheiten im Sinne dieser Ordnung sind
+<span id="SO19.1">(1)</span> Organisationseinheiten im Sinne dieser Ordnung sind
 
-:<span id="SO1.1a">a)</span> Crews,
-:<span id="SO1.1b">b)</span> Arbeitskreise (AK),
-:<span id="SO1.1c">c)</span> Arbeitsgruppen (AG),
-:<span id="SO1.1d">d)</span> Projektgruppen (PG).
+:<span id="SO19.1a">a)</span> Crews,
+:<span id="SO19.1b">b)</span> Arbeitskreise (AK),
+:<span id="SO19.1c">c)</span> Arbeitsgruppen (AG),
+:<span id="SO19.1d">d)</span> Projektgruppen (PG).
 
-<span id="SO1.2">(2)</span> Die NRW-Organisationsliste ist eine Mailingliste der Piratenpartei Nordrhein-Westfalen. Sie dient nicht der Diskussion, sondern einzig dem Informationsaustausch und der Koordination der Organisationseinheiten. Die NRW-Organisationsliste ist unmoderriert, wird archiviert und ist öffentlich lesbar.
+<span id="SO19.2">(2)</span> Die NRW-Organisationsliste ist eine Mailingliste der Piratenpartei Nordrhein-Westfalen. Sie dient nicht der Diskussion, sondern einzig dem Informationsaustausch und der Koordination der Organisationseinheiten. Die NRW-Organisationsliste ist unmoderriert, wird archiviert und ist öffentlich lesbar.
 
-<span id="SO1.3">(3)</span> Zweidrittel-Mehrheit in dieser Organisationsordnung bedeutet, dass bei einer Entscheidung mindestens doppelt so viele gültige Ja-Stimmen wie gültige Nein-Stimmen abgegeben werden.
+<span id="SO19.3">(3)</span> Zweidrittel-Mehrheit in dieser Organisationsordnung bedeutet, dass bei einer Entscheidung mindestens doppelt so viele gültige Ja-Stimmen wie gültige Nein-Stimmen abgegeben werden.
 
-<span id="SO2">
-==§2 – Transparenz==
+<span id="SO20">
+==§20 – Transparenz==
 </span>
 
-<span id="SO2.1">(1)</span> Die Treffen aller Organisationseinheiten sind grundsätzlich öffentlich. Die Organisationseinheiten haben eine transparente Arbeitsweise sicherzustellen.
+<span id="SO20.1">(1)</span> Die Treffen aller Organisationseinheiten sind grundsätzlich öffentlich. Die Organisationseinheiten haben eine transparente Arbeitsweise sicherzustellen.
 
-<span id="SO2.2">(2)</span> Jede Organisationseinheit unterhält im Piraten-Wiki eine Internetpräsenz und veröffentlicht dort, in der Regel binnen 7 Tagen, insbesondere
+<span id="SO20.2">(2)</span> Jede Organisationseinheit unterhält im Piraten-Wiki eine Internetpräsenz und veröffentlicht dort, in der Regel binnen 7 Tagen, insbesondere
 
-:<span id="SO2.2a">a)</span> die Mitglieder dieser Organisationseinheit (mit Pseudonym oder Klarname),
-:<span id="SO2.2b">b)</span> eine E-Mail-Adresse, über welche die Organisationseinheit direkt (z.B. über eine Mailingliste oder Request-Tracker) oder indirekt (z.B. über einen Koordinator) erreicht werden kann,
-:<span id="SO2.2c">c)</span> die Termine der Treffen sowie deren Ort,
-:<span id="SO2.2d">d)</span> das Entscheidungsmodell sowie
-:<span id="SO2.2e">e)</span> Protokolle der Treffen.
+:<span id="SO20.2a">a)</span> die Mitglieder dieser Organisationseinheit (mit Pseudonym oder Klarname),
+:<span id="SO20.2b">b)</span> eine E-Mail-Adresse, über welche die Organisationseinheit direkt (z.B. über eine Mailingliste oder Request-Tracker) oder indirekt (z.B. über einen Koordinator) erreicht werden kann,
+:<span id="SO20.2c">c)</span> die Termine der Treffen sowie deren Ort,
+:<span id="SO20.2d">d)</span> das Entscheidungsmodell sowie
+:<span id="SO20.2e">e)</span> Protokolle der Treffen.
 
-<span id="SO2.3">(3)</span> Treffen sind zu protokollieren und zeitnah auf der NRW-Organisationsliste zu veröffentlichen
+<span id="SO20.3">(3)</span> Treffen sind zu protokollieren und zeitnah auf der NRW-Organisationsliste zu veröffentlichen
 
-:<span id="SO2.3a">a)</span> bei der Gründung,
-:<span id="SO2.3b">b)</span> bei der Planung von Aktionen,
-:<span id="SO2.3c">c)</span> bei Ausschlüssen von Mitgliedern,
-:<span id="SO2.3d">d)</span> wenn Entscheidungen getroffen werden.
+:<span id="SO20.3a">a)</span> bei der Gründung,
+:<span id="SO20.3b">b)</span> bei der Planung von Aktionen,
+:<span id="SO20.3c">c)</span> bei Ausschlüssen von Mitgliedern,
+:<span id="SO20.3d">d)</span> wenn Entscheidungen getroffen werden.
 
-<span id="SO2.4">(4)</span> Jede Organisationseinheit gibt vierteljährlich einen Tätigkeitsbericht gegenüber dem Vorstand ab. Anhand dieser Berichte stellt der Vorstand die Aktivität fest.
+<span id="SO20.4">(4)</span> Jede Organisationseinheit gibt vierteljährlich einen Tätigkeitsbericht gegenüber dem Vorstand ab. Anhand dieser Berichte stellt der Vorstand die Aktivität fest.
 
-== §3 – Gründung einer Organisationseinheit==
+== §21 – Gründung einer Organisationseinheit==
 
-<span id="SO3.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der NRW-Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
+<span id="SO21.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der NRW-Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
 
-<span id="SO3.2">(2)</span> Zur Gründung einer Organisationseinheit müssen mindestens drei der Gründungsmitglieder Mitglied des Landesverbandes sein. Die Identität der erforderlichen Gründungsmitglieder, die Mitglieder des Landesverbandes sind, muss dem Landesvorstand mit ihrem dem Landesverband bekannten Namen und der Mitgliednummer mitgeteilt werden. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde. Der Landesvorstand kann der Gründung einer Organisationseinheit innerhalb von 21 Tagen widersprechen, wenn sie die satzungswidrige Bestrebungen einer durch Schiedsgerichturteil oder Entscheidung des Landesparteitages aufgelösten Organisationseinheit an deren Stelle weiterverfolgt (Ersatzorganisationseinheit). Dieser Widerspruch muß vom Vorstand schriftlich begründet werden und es kann beim Landesschiedsgericht Klage gegen den Widerspruch erhoben werden. Die Klage gegen den Widerspruch hat keine aufschiebende Wirkung.
+<span id="SO21.2">(2)</span> Zur Gründung einer Organisationseinheit müssen mindestens drei der Gründungsmitglieder Mitglied des Landesverbandes sein. Die Identität der erforderlichen Gründungsmitglieder, die Mitglieder des Landesverbandes sind, muss dem Landesvorstand mit ihrem dem Landesverband bekannten Namen und der Mitgliednummer mitgeteilt werden. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde. Der Landesvorstand kann der Gründung einer Organisationseinheit innerhalb von 21 Tagen widersprechen, wenn sie die satzungswidrige Bestrebungen einer durch Schiedsgerichturteil oder Entscheidung des Landesparteitages aufgelösten Organisationseinheit an deren Stelle weiterverfolgt (Ersatzorganisationseinheit). Dieser Widerspruch muß vom Vorstand schriftlich begründet werden und es kann beim Landesschiedsgericht Klage gegen den Widerspruch erhoben werden. Die Klage gegen den Widerspruch hat keine aufschiebende Wirkung.
 
-<span id="SO3.3">(3)</span> Organisationseinheiten geben sich einen eindeutigen Namen. Mögliche Namensverwechslungen mit anderen Organisationseinheiten sind auszuschließen.
+<span id="SO21.3">(3)</span> Organisationseinheiten geben sich einen eindeutigen Namen. Mögliche Namensverwechslungen mit anderen Organisationseinheiten sind auszuschließen.
 
-<span id="SO3.4">(4)</span> Aus dem Namen von Arbeitskreisen, Arbeitsgruppen und Projektgruppen ist der Zweck dieser Organisationseinheit zu erkennen. Der Name wird entsprechend mit dem Präfix „AK“, „AG“ oder „PG“ gekennzeichnet und hat das Suffix „NRW“.
+<span id="SO21.4">(4)</span> Aus dem Namen von Arbeitskreisen, Arbeitsgruppen und Projektgruppen ist der Zweck dieser Organisationseinheit zu erkennen. Der Name wird entsprechend mit dem Präfix „AK“, „AG“ oder „PG“ gekennzeichnet und hat das Suffix „NRW“.
 
-<span id="SO3.5">(5)</span> Der Landesvorstand und der Landesparteitag können jederzeit und ohne Fristbindung Organisationseinheiten ins Leben rufen. Beide können Organisationseinheiten offiziell mit Aufgaben betrauen oder ihnen diese wieder entziehen.
+<span id="SO21.5">(5)</span> Der Landesvorstand und der Landesparteitag können jederzeit und ohne Fristbindung Organisationseinheiten ins Leben rufen. Beide können Organisationseinheiten offiziell mit Aufgaben betrauen oder ihnen diese wieder entziehen.
 
-<span id="SO3.6">(6)</span> Der Landesvorstand und der Landesparteitag haben das Recht, Organisationseinheiten unter Angabe von Gründen anzuweisen, ihren Namen zu ändern und Organisationseinheiten umzubenennen, wenn sie der Anweisung nicht nachkommen.
+<span id="SO21.6">(6)</span> Der Landesvorstand und der Landesparteitag haben das Recht, Organisationseinheiten unter Angabe von Gründen anzuweisen, ihren Namen zu ändern und Organisationseinheiten umzubenennen, wenn sie der Anweisung nicht nachkommen.
 
-<span id="SO4">
-==§4 – Entscheidungsmodell und Arbeitsstruktur==
+<span id="SO22">
+==§22 – Entscheidungsmodell und Arbeitsstruktur==
 </span>
 
-<span id="SO4.1">(1)</span> Jede Organisationseinheit kann sich ein eigenes, basisdemokratisches Entscheidungsmodell geben, welches auf der Internetpräsenz zu veröffentlichen ist.
+<span id="SO22.1">(1)</span> Jede Organisationseinheit kann sich ein eigenes, basisdemokratisches Entscheidungsmodell geben, welches auf der Internetpräsenz zu veröffentlichen ist.
 
-<span id="SO4.2">(2)</span> Sofern kein eigenes Entscheidungsmodell beschlossen wurde, gilt die einfache Mehrheit der anwesenden Mitglieder der Organisationseinheit.
+<span id="SO22.2">(2)</span> Sofern kein eigenes Entscheidungsmodell beschlossen wurde, gilt die einfache Mehrheit der anwesenden Mitglieder der Organisationseinheit.
 
-<span id="SO4.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit eine Möglichkeit, sie zu kontaktieren.
+<span id="SO22.3">(3)</span> Die Organisationseinheiten Arbeitskreis, Arbeitsgruppe und Projektgruppe benennen zu jeder Zeit eine Möglichkeit, sie zu kontaktieren.
 
-<span id="SO4.4">(4)</span> Die Organisationseinheit sollte sich selber Regelungen zu Aufnahme und Ausschluss von Mitgliedern, Auftrennung, Selbstauflösung und Zusammenschluss mit einer anderen Organisationseinheit geben.
+<span id="SO22.4">(4)</span> Die Organisationseinheit sollte sich selber Regelungen zu Aufnahme und Ausschluss von Mitgliedern, Auftrennung, Selbstauflösung und Zusammenschluss mit einer anderen Organisationseinheit geben.
 
-<span id="SO5">
-==§5 – Mitgliedschaft in Organisationseinheiten==
+<span id="SO23">
+==§23 – Mitgliedschaft in Organisationseinheiten==
 </span>
 
-<span id="SO5.1">(1)</span> Mitglied einer Organisationseinheit im Sinne dieser Ordnung kann jeder Pirat sowie jeder Interessierte werden, Mehrfachmitgliedschaften sind erlaubt.
+<span id="SO23.1">(1)</span> Mitglied einer Organisationseinheit im Sinne dieser Ordnung kann jeder Pirat sowie jeder Interessierte werden, Mehrfachmitgliedschaften sind erlaubt.
 
-<span id="SO5.2">(2)</span> Der Austritt aus einer Organisationseinheit ist durch einfache Willenserklärung möglich.
+<span id="SO23.2">(2)</span> Der Austritt aus einer Organisationseinheit ist durch einfache Willenserklärung möglich.
 
-<span id="SO5.3">(3)</span> Sollte sich die Organisationseinheit keine eigenen Regelungen diesbezüglich gegeben haben, können ihre Mitglieder über den begründeten Ausschluss eines Mitglieds entscheiden, wenn sich mindestens doppelt so viele ihrer Mitglieder dafür wie dagegen aussprechen. Diese Entscheidung ist zu protokollieren und auf der Internetpräsenz und auf der NRW-Organisationsliste zu veröffentlichen. Mitglieder, die drei Mal in Folge den Treffen der Organisationseinheit unentschuldigt fernbleiben, bekunden damit ihren Willen zum Austritt aus der Organisationseinheit.
+<span id="SO23.3">(3)</span> Sollte sich die Organisationseinheit keine eigenen Regelungen diesbezüglich gegeben haben, können ihre Mitglieder über den begründeten Ausschluss eines Mitglieds entscheiden, wenn sich mindestens doppelt so viele ihrer Mitglieder dafür wie dagegen aussprechen. Diese Entscheidung ist zu protokollieren und auf der Internetpräsenz und auf der NRW-Organisationsliste zu veröffentlichen. Mitglieder, die drei Mal in Folge den Treffen der Organisationseinheit unentschuldigt fernbleiben, bekunden damit ihren Willen zum Austritt aus der Organisationseinheit.
 
-<span id="SO6">
-==§6 – Auflösung==
+<span id="SO24">
+==§24 – Auflösung==
 </span>
 
-<span id="SO6.1">(1)</span> Eine Organisationseinheit löst sich auf, wenn
+<span id="SO24.1">(1)</span> Eine Organisationseinheit löst sich auf, wenn
 
-:<span id="SO6.1a">a)</span> sie dies mit einer 2/3-Mehrheit der bei einem Treffen anwesenden Mitglieder beschließt und sich die Organisationseinheit diesbezüglich keine anderslautenden eigenen Regelungen gegeben hat,
-:<span id="SO6.1b">b)</span> durch den Landesvorstand festgestellt wird, dass weniger als drei ihrer Mitglieder Mitglieder des Landesverbandes sind,
-:<span id="SO6.1c">c)</span> sie schwerwiegend gegen das Transparenzgebot (Strukturordnung §2) verstößt,
-:<span id="SO6.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
-:<span id="SO6.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
+:<span id="SO24.1a">a)</span> sie dies mit einer 2/3-Mehrheit der bei einem Treffen anwesenden Mitglieder beschließt und sich die Organisationseinheit diesbezüglich keine anderslautenden eigenen Regelungen gegeben hat,
+:<span id="SO24.1b">b)</span> durch den Landesvorstand festgestellt wird, dass weniger als drei ihrer Mitglieder Mitglieder des Landesverbandes sind,
+:<span id="SO24.1c">c)</span> sie schwerwiegend gegen das Transparenzgebot (Strukturordnung §2) verstößt,
+:<span id="SO24.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
+:<span id="SO24.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
 
-<span id="SO7">
-==§7 – Crew==
+<span id="SO25">
+==§25 – Crew==
 </span>
 
-<span id="SO7.1">(1)</span> Crews sind kleine Organisationseinheiten des Landesverbandes und bilden flexible und tatkräftige Teams.
+<span id="SO25.1">(1)</span> Crews sind kleine Organisationseinheiten des Landesverbandes und bilden flexible und tatkräftige Teams.
 
-<span id="SO7.2">(2)</span> Crews sollten sich in der Regel in kurzen Abständen zusammenfinden.
+<span id="SO25.2">(2)</span> Crews sollten sich in der Regel in kurzen Abständen zusammenfinden.
 
-<span id="SO7.3">(3)</span> Crews können sich eine Crewordnung geben.
+<span id="SO25.3">(3)</span> Crews können sich eine Crewordnung geben.
 
-<span id="SO8">
-==§8 – Arbeitskreis==
+<span id="SO26">
+==§26 – Arbeitskreis==
 </span>
 
-<span id="SO8.1">(1)</span> Arbeitskreise dienen der Diskussion und Erarbeitung von politischen Positionen und Aussagen der Piratenpartei Deutschland, Landesverband NRW und somit zur innerparteilichen Willensbildung.
+<span id="SO26.1">(1)</span> Arbeitskreise dienen der Diskussion und Erarbeitung von politischen Positionen und Aussagen der Piratenpartei Deutschland, Landesverband NRW und somit zur innerparteilichen Willensbildung.
 
-<span id="SO9">
-==§9 – Arbeitsgruppe==
+<span id="SO27">
+==§27 – Arbeitsgruppe==
 </span>
 
-<span id="SO9.1">(1)</span> Eine Arbeitsgruppe bearbeitet permanente Aufgaben, die nicht Teil der innerparteilichen Willensbildung sind. Dieses können Dienste wie zum Beispiel das Wiki, Forum oder Mailinglisten sein sowie die Herstellung von Flyern, Pressemitteilungen und Ähnliches.
+<span id="SO27.1">(1)</span> Eine Arbeitsgruppe bearbeitet permanente Aufgaben, die nicht Teil der innerparteilichen Willensbildung sind. Dieses können Dienste wie zum Beispiel das Wiki, Forum oder Mailinglisten sein sowie die Herstellung von Flyern, Pressemitteilungen und Ähnliches.
 
-<span id="SO10">
-==§10 – Projektgruppen==
+<span id="SO28">
+==§28 – Projektgruppen==
 </span>
 
-<span id="SO10.1">(1)</span> Eine Projektgruppe bearbeitet zeitlich befristet Aufgaben, die nicht Teil der innerparteilichen Willensbildung sind. Dieses können zum Beispiel die Koordination von Wahlkämpfen, Aktionen und Ähnliches sein.
+<span id="SO28.1">(1)</span> Eine Projektgruppe bearbeitet zeitlich befristet Aufgaben, die nicht Teil der innerparteilichen Willensbildung sind. Dieses können zum Beispiel die Koordination von Wahlkämpfen, Aktionen und Ähnliches sein.
 
-<span id="SO10.2">(2)</span> Die PG bestimmt ein Zieldatum, an dem sich die Projektgruppe automatisch auflöst.
+<span id="SO28.2">(2)</span> Die PG bestimmt ein Zieldatum, an dem sich die Projektgruppe automatisch auflöst.
 
-<span id="SO10.3">(3)</span> Eine PG kann sich selbst in eine AG wandeln.
+<span id="SO28.3">(3)</span> Eine PG kann sich selbst in eine AG wandeln.
 
 <span id="SO10.4">(4)</span> Die PG soll einen Abschlussbericht erstellen. Der Abschlussbericht soll eine Zusammenfassung der geleisteten Arbeit und der Arbeitsweisen darstellen und dazu dienen, zukünftigen Projektgruppen mit ähnlichen Aufgaben Anhaltspunkte für ihre Arbeit zu liefern.
 
