@@ -233,7 +233,13 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 
 <span id="F4.4">(4)</span> Mittel der Finanzkonten virtueller Kreisverbände
 
-:<span id="F4.4a">a)</span> kann jede Gruppe von Piraten mit mindestens drei Mitgliedern des Landesverbandes, von denen mindestens zwei ihren Wohnsitz im virtuellen Kreisverband haben beim Landesvorstand zweckgebunden beantragen. Der Landesvorstand soll der Budgetzuteilung in der Regel zustimmen,
+:<span id="F4.4a">a)</span> kann jede Gruppe zweckgebunden beim Landesschatzmeister bzw. dem Landesvorstand beantragen, wenn
+::1) 2/3 der Antragsteller ihren Wohnsitz in dem Kreis haben, dem der virtuelle Kreisverband zugeordnet ist, 
+::2) bei Beträgen bis einschließlich #Betrag1 € die Gruppe aus 3 NRW-Piraten besteht, 
+::3) bei Beträgen über #Betrag1 € die Gruppe aus 6 NRW-Piraten besteht, 
+::4) bei Beträgen über #Betrag2 € der Finanzantrag 3 Tage vor der Vorstandssitzung eingereicht, im Klartext auf der Organisationsliste veröffentlicht und in der Vorstandssitzung besprochen wurde (kein Umlaufbeschluss) und 
+::5) bei regelmäßigen Kosten über #Betrag3 € pro Jahr ein positiver Beschluss der entsprechenden Mitgliederversammlung vorliegt.
+:Der Budgetzuteilung soll in der Regel zugestimmt werden. In Einzelfällen kann der Landesvorstand Ausnahmen genehmigen.
 :<span id="F4.4b">b)</span> müssen in ihrer Verwendung dem zugeordneten Kreis zu Gute kommen,
 :<span id="F4.4c">c)</span> gehen bei Gründung entsprechender Kreisverbände in deren Besitz über,
 :<span id="F4.4d">d)</span> des jeweils letzten Geschäftsjahres können vom Landesparteitag ganz oder teilweise anderweitig zugewiesen werden, wenn dort im Vorjahr keine Verwendung zu verzeichnen war. Wird spätestens eine Woche vor dem Landesparteitag dem Landesvorstand eine zukünftige Verwendung von Finanzmitteln in Textform angezeigt, soll in der Regel von dieser Zuweisung abgesehen werden.
