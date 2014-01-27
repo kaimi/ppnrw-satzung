@@ -295,8 +295,8 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 <span id="SO1.1">(1)</span> Organisationseinheiten im Sinne dieser Ordnung sind
 
 :<span id="SO1.1a">a)</span> Crews,
-:<span id="SO1.1b">b)</span> Arbeitsgruppen (AG),
-:<span id="SO1.1c">c)</span> Arbeitskreise (AK),
+:<span id="SO1.1b">b)</span> Arbeitskreise (AK),
+:<span id="SO1.1c">c)</span> Arbeitsgruppen (AG),
 :<span id="SO1.1d">d)</span> Projektgruppen (PG).
 
 <span id="SO1.2">(2)</span> Die Organisationsliste ist eine Mailingliste der Piratenpartei Nordrhein-Westfalen. Sie dient nicht der Diskussion, sondern einzig dem Informationsaustausch und der Koordination der Organisationseinheiten. Die Organisationsliste ist unmoderriert, wird archiviert und ist öffentlich lesbar.
