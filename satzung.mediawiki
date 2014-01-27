@@ -23,7 +23,7 @@
 
 innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 :<span id="S2.2aa">a)</span> zum Jahreswechsel,
-:<span id="S2.2bb">b)</span> bei Gründung eines Gebietsverbandes dessen Tätigkeitsgebiet seinen Wohnsitz oder das Gebiet, dem es aktuell zugehörig ist, einschließt.
+:<span id="S2.2bb">b)</span> bei Gründung eines Gebietsverbandes, dessen Tätigkeitsgebiet seinen Wohnsitz oder das Gebiet, dem es aktuell zugehörig ist, einschließt.
 
 Über die Aufnahme entscheidet bei existierender Gliederung deren Vorstand, ansonsten der Landesvorstand. Ist eine Entscheidung durch diese Stellen nicht innerhalb eines halben Jahres erfolgt, entscheidet der Landesvorstand.
 
@@ -51,7 +51,7 @@ innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 
 <span id="S5.2">(2)</span> Zusammenschlüsse von geografisch angrenzenden Kreisen, kreisfreien Städten oder Städteregionen sind innerhalb von Bezirksgrenzen erlaubt und heißen Regionalverbände. Diese zeichnen sich durch einen gemeinsamen Vorstand, eine gemeinsame Verwaltung und eine gemeinsame Mitgliederversammlung aus.
 
-<span id="S5.3">(3)</span> Ein Regionalverband gilt als gegründet, wenn bei allen Mitgliedervollversammlungen der beteiligten Kreise, kreisfreien Städte oder Städteregionen jeweils mindestens doppelt so viele gültige Stimmen dafür wie gültige Stimmen dagegen abgegeben werden. Die Mitgliederversammlungen müssen diese Beschlüsse mit einem zeitlichen Abstand von maximal drei Monaten und im selben Kalenderjahr fassen. Der Zusammenschluss gilt ab dem ersten Kalenderquartal nach der letzten Beschlussfassung.
+<span id="S5.3">(3)</span> Ein Regionalverband gilt als gegründet, wenn bei allen Mitgliederversammlungen der beteiligten Kreise, kreisfreien Städte oder Städteregionen jeweils mindestens doppelt so viele gültige Stimmen dafür wie gültige Stimmen dagegen abgegeben werden. Die Mitgliederversammlungen müssen diese Beschlüsse mit einem zeitlichen Abstand von maximal drei Monaten und im selben Kalenderjahr fassen. Der Zusammenschluss gilt ab dem ersten Kalenderquartal nach der letzten Beschlussfassung.
 
 <span id="S5.4">(4)</span> Für den Austritt eines Gebietes aus einem Regionalverband sind mindestens doppelt so viele gültige Stimmen der Mitglieder des jeweiligen Gebietes dafür wie gültige Stimmen dagegen notwendig. Der Austritt wird mit dem nächsten Kalenderquartal gültig.
 
@@ -59,7 +59,7 @@ innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 
 <span id="S5.6">(6)</span> Die Einladungsfristen für ordentliche Mitgliederversammlungen unterhalb der Landesebene dürfen 14 Tage nicht unterschreiten.
 
-<span id="S5.6">(6)</span> Nach Beschluss der jeweiligen Mitgliederversammlung kann in untergeordneten Gliederungen ein Schiedsgericht eingerichtet werden.
+<span id="S5.7">(7)</span> Nach Beschluss der jeweiligen Mitgliederversammlung kann in untergeordneten Gliederungen ein Schiedsgericht eingerichtet werden.
 
 <span id="S6">
 ==§ 6 – Organe des Landesverbandes==
@@ -165,15 +165,7 @@ innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 
 <span id="S8.3">(3)</span> Satzungs- und Programmänderungsanträge können nur von Mitgliedern des Landesverbandes eingereicht werden.
 
-<span id="S8.5">(5)</span> (5) Jeder innerhalb der Antragsfrist eingereichte Antrag kann auf dem Parteitag vor der Abstimmung durch einen der Antragsteller oder dessen / deren Bevollmächtigten geändert werden.
-
-Geändert werden können einzelne Wörter und Formulierungen. Ebenso ist es möglich Textpassagen zu streichen oder eine Formulierung zu ergänzen.
-
-Der geänderte Antrag muss dem Parteitag mindestens 60 Minuten vor der Abstimmung im Piraten-Wiki vorliegen.
-
-Änderungen sind hervorzuheben. Die Adresse ist zu verkünden.
-
-Gegebenenfalls wird die Abstimmung solange zurückgestellt und ein anderer Tagesordnungspunkt vorgezogen. Der Parteitag entscheidet mit einfacher Mehrheit, ob er über den ursprünglichen oder den geänderten Antrag Abstimmen möchte.
+<span id="S8.4">(4)</span> Jeder innerhalb der Antragsfrist eingereichte Antrag kann auf dem Parteitag vor der Abstimmung durch einen der Antragsteller oder dessen / deren Bevollmächtigten geändert werden. Geändert werden können einzelne Wörter und Formulierungen. Ebenso ist es möglich Textpassagen zu streichen oder eine Formulierung zu ergänzen. Der geänderte Antrag muss dem Parteitag mindestens 60 Minuten vor der Abstimmung im Piraten-Wiki vorliegen. Änderungen sind hervorzuheben. Die Adresse ist zu verkünden. Gegebenenfalls wird die Abstimmung solange zurückgestellt und ein anderer Tagesordnungspunkt vorgezogen. Der Parteitag entscheidet mit einfacher Mehrheit, ob er über den ursprünglichen oder den geänderten Antrag Abstimmen möchte. 
 
 <span id="S9">
 ==§ 9 – Auflösung und Verschmelzung==
@@ -203,7 +195,6 @@ Gegebenenfalls wird die Abstimmung solange zurückgestellt und ein anderer Tages
 
 <span id="S12.1">(1)</span> Die Bundespartei führt ein zentrales Piratenverzeichnis. Der Landesverband kann ein eigenes Landesverzeichnis seiner Mitglieder führen. Die Gebietsverbände können eigene Verzeichnisse Ihrer Mitglieder führen. Für die sichere Aufbewahrung, die parteigebundene Verwendung und Nutzung unter besonderer Berücksichtigung der Privatsphäre und der Aktualisierung jeglicher Art von Daten ist Sorge zu tragen.
 
-
 <span id="F">
 =FINANZORDNUNG=
 </span>
@@ -212,7 +203,7 @@ Gegebenenfalls wird die Abstimmung solange zurückgestellt und ein anderer Tages
 ==§13 – Gültigkeit==
 </span>
 
-Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroffenen Regelungen erweitern die Finanzverwaltung auf Landesebene.
+<span id="F13.1">(1)</span> Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroffenen Regelungen erweitern die Finanzverwaltung auf Landesebene.
 
 <span id="F14">
 ==§14 – Begriffe==
@@ -266,12 +257,11 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 <span id="F16.7">(7)</span> Der Landesvorstand hat jährlich, rechtzeitig vor dem Zeitpunkt, der in der Bundesfinanzordnung § 15 (3) benannt ist, die Festsetzung des Landesanteils am Länderfinanzausgleich gegenüber dem Bundesvorstand anzuzeigen. Dabei ist ein diesbezüglicher Beschluss eines Landesparteitags über die Höhe des Anteils bindend, bei einem Anteil höher als der Regelbetrag verpflichtend. Die Anzeige ist im Vorfeld mit Begründung zu veröffentlichen.
 
 <span id="F17">
-==§5 – Verwaltung und Buchführung==
+==§17 – Verwaltung und Buchführung==
 </span>
 
 <span id="F17.1">(1)</span> Für die Verwaltung der Finanzen ist der Schatzmeister verantwortlich. Er führt Bankkonten im Namen des Landesverbandes und kann weiteren Mitgliedern Verfügungsberechtigung über Konten erteilen oder entziehen.
 
-<span id="F17.2">(2)</span> Der Landesschatzmeister verwaltet alle virtuellen Kreisverbände und beschlossenen Budgets auf Finanzkonten.
 Der Landesschatzmeister legt bis zum 30. November eines Jahres einen Entwurf für einen Finanz- und Budgetplan für das Folgejahr vor, der in Anlehnung an § 24 (4), (5) PartG zumindest folgende Punkte beinhaltet:
 
 Auf der Einnahmenseite:
@@ -315,7 +305,6 @@ Die Ausgabenplanung erfolgt unter Berücksichtigung des "Anhang B" der Landessat
 
 Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams zumeist besser erledigen lassen. Für solche Gruppierungen (Organisationseinheiten) soll diese Ordnung ähnliche Voraussetzungen schaffen ohne die Individualität einer solchen Gruppe zu beschneiden.
 
-
 <span id="SO19">
 ==§19 – Begriffe==
 </span>
@@ -354,7 +343,9 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO20.4">(4)</span> Jede Organisationseinheit gibt vierteljährlich einen Tätigkeitsbericht gegenüber dem Vorstand ab. Anhand dieser Berichte stellt der Vorstand die Aktivität fest.
 
-== §21 – Gründung einer Organisationseinheit==
+<span id="SO21">
+==§21 – Gründung einer Organisationseinheit==
+</span>
 
 <span id="SO21.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der NRW-Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
 
@@ -398,7 +389,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 :<span id="SO24.1a">a)</span> sie dies mit einer 2/3-Mehrheit der bei einem Treffen anwesenden Mitglieder beschließt und sich die Organisationseinheit diesbezüglich keine anderslautenden eigenen Regelungen gegeben hat,
 :<span id="SO24.1b">b)</span> durch den Landesvorstand festgestellt wird, dass weniger als drei ihrer Mitglieder Mitglieder des Landesverbandes sind,
-:<span id="SO24.1c">c)</span> sie schwerwiegend gegen das Transparenzgebot (Strukturordnung §2) verstößt,
+:<span id="SO24.1c">c)</span> sie schwerwiegend gegen das Transparenzgebot (Strukturordnung §20) verstößt,
 :<span id="SO24.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
 :<span id="SO24.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
 
@@ -434,7 +425,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO28.3">(3)</span> Eine PG kann sich selbst in eine AG wandeln.
 
-<span id="SO10.4">(4)</span> Die PG soll einen Abschlussbericht erstellen. Der Abschlussbericht soll eine Zusammenfassung der geleisteten Arbeit und der Arbeitsweisen darstellen und dazu dienen, zukünftigen Projektgruppen mit ähnlichen Aufgaben Anhaltspunkte für ihre Arbeit zu liefern.
+<span id="SO28.4">(4)</span> Die PG soll einen Abschlussbericht erstellen. Der Abschlussbericht soll eine Zusammenfassung der geleisteten Arbeit und der Arbeitsweisen darstellen und dazu dienen, zukünftigen Projektgruppen mit ähnlichen Aufgaben Anhaltspunkte für ihre Arbeit zu liefern.
 
 
 <span id="A">
@@ -444,6 +435,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 10% erhält der für das Mitglied zuständige Bezirksverband (BzV),<br/>
 30% erhält der zuständige Kreisverband (KV) oder virtuelle Kreisverband (vKV),<br/>
 20% erhält der zuständige Ortsverband (OV).
+
 
 <span id="B">
 =ANHANG B: VERTEILUNG DER MITTEL AUS DER STAATLICHEN TEILFINANZIERUNG=
