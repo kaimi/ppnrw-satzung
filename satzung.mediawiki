@@ -55,6 +55,8 @@
 
 <span id="S5.6">(6)</span> Die Einladungsfristen für ordentliche Mitgliederversammlungen unterhalb der Landesebene dürfen 14 Tage nicht unterschreiten.
 
+<span id="S5.6">(6)</span> Nach Beschluss der jeweiligen Mitgliederversammlung kann in untergeordneten Gliederungen ein Schiedsgericht eingerichtet werden.
+
 <span id="S6">
 ==§ 6 – Organe des Landesverbandes==
 </span>
