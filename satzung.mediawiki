@@ -268,6 +268,12 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 
 <span id="F6.4">(4)</span> Liefert eine Untergliederung bis zum Stichtag keinen Rechenschaftsbericht oder keine Steuererklärung, friert der Landesverband alle weiteren Zahlungen an die Gliederung ein und übernimmt automatisch kommissarisch die Verwaltung ihrer Finanzen, bis der Bericht verfasst wurde. Gleichzeitig kann durch den Landesschatzmeister zum Landesparteitag der Antrag auf Auflösung des jeweiligen Verbandes gestellt werden. Bei Auflösung fallen alle Mittel dieses Verbandes an die betreffenden virtuellen oder tatsächlichen Kreisverbandsbudgets.
 
+<span id="F7">
+==§7 – Mitgliedsbeitrag==
+</span>
+
+<span id="F7.1">(1)</span> Der Mitgliedsbeitrag ist an den Landesverband zu entrichten.
+
 <span id="SO">
 =STRUKTURORDNUNG=
 </span>
