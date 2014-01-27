@@ -165,9 +165,7 @@ innerhalb des Landesverbandes sowohl vertikal als auch horizontal frei bestimmen
 
 <span id="S8.2">(2)</span> Zwischen zwei Landesparteitagen können Änderungen der Landessatzung, Programme und Wahlprogramme vorgenommen werden, wenn mindestens 2/3 der Mitglieder des Landesverbandes sich mit dem Antrag auf Änderung schriftlich oder in einem vom Landesparteitag legitimierten Werkzeug einverstanden erklären.
 
-<span id="S8.3">(3)</span> Entfällt.
-
-<span id="S8.4">(4)</span> Satzungs- und Programmänderungsanträge können nur von Mitgliedern des Landesverbandes eingereicht werden.
+<span id="S8.3">(3)</span> Satzungs- und Programmänderungsanträge können nur von Mitgliedern des Landesverbandes eingereicht werden.
 
 <span id="S8.5">(5)</span> (5) Jeder innerhalb der Antragsfrist eingereichte Antrag kann auf dem Parteitag vor der Abstimmung durch einen der Antragsteller oder dessen / deren Bevollmächtigten geändert werden.
 
