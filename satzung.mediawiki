@@ -406,6 +406,8 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO10.3">(3)</span> Eine PG kann sich selbst in eine AG wandeln.
 
+<span id="SO10.4">(4)</span> Die PG soll einen Abschlussbericht erstellen. Der Abschlussbericht soll eine Zusammenfassung der geleisteten Arbeit und der Arbeitsweisen darstellen und dazu dienen, zukünftigen Projektgruppen mit ähnlichen Aufgaben Anhaltspunkte für ihre Arbeit zu liefern.
+
 
 <span id="A">
 =ANHANG A: VERTEILUNG DER MITTEL AUS MITGLIEDSBEITRÄGEN=
