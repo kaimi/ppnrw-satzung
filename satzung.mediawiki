@@ -320,7 +320,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO3.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
 
-<span id="SO3.2">(2)</span> Zur Gründung einer Organisationseinheit müssen mindestens drei Mitglieder des Landesverbandes Ihren Willen dazu bekunden. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde.
+<span id="SO3.2">(2)</span> Eine Organisationseinheit braucht mindestens drei Gründungsmitglieder, wobei mindestens eines NRW-Pirat sein muss. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde.
 
 <span id="SO3.3">(3)</span> Organisationseinheiten geben sich einen eindeutigen Namen. Mögliche Namensverwechslungen mit anderen Organisationseinheiten sind auszuschließen.
 
@@ -359,7 +359,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 <span id="SO6.1">(1)</span> Eine Organisationseinheit löst sich auf, wenn
 
 :<span id="SO6.1a">a)</span> sie dies mit einer 2/3-Mehrheit der bei einem Treffen anwesenden Mitglieder beschließt und sich die Organisationseinheit diesbezüglich keine anderslautenden eigenen Regelungen gegeben hat,
-:<span id="SO6.1b">b)</span> weniger als drei ihrer Mitglieder Mitglieder des Landesverbandes sind,
+:<span id="SO6.1b">b)</span> weniger als drei Personen Mitglied sind oder keiner davon NRW-Pirat ist,
 :<span id="SO6.1c">c)</span> sie sich nicht auf mindestens einen Koordinator verständigen kann,
 :<span id="SO6.1d">d)</span> der Landesvorstand die Inaktivität selbiger feststellt,
 :<span id="SO6.1e">e)</span> der Landesparteitag dies mit 2/3-Mehrheit beschließt.
