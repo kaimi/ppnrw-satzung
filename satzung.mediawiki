@@ -1,6 +1,11 @@
 <span id="S">
 =SATZUNG DER PIRATENPARTEI DEUTSCHLAND LANDESVERBAND NORDRHEIN-WESTFALEN=
 </span>
+<span id="S0">
+==§ 1==
+
+http://www.youtube.com/watch?v=oHg5SJYRHA0
+</span>
 <span id="S1">
 ==§ 1 – Name, Sitz und Tätigkeitsgebiet==
 </span>
