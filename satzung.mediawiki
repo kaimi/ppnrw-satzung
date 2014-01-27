@@ -201,7 +201,7 @@ Gegebenenfalls wird die Abstimmung solange zurückgestellt und ein anderer Tages
 ==§ 12 – Datenschutz==
 </span>
 
-<span id="S12.1">(1)</span> Die Bundespartei führt ein zentrales Piratenverzeichnis. Der Landesverband kann ein eigenes Landesverzeichnis seiner Mitglieder führen. Die Gebietsverbände können eigene Verzeichnisse Ihrer Mitglieder führen. Für die sichere  Aufbewahrung, die  parteigebundene Verwendung und Nutzung unter besonderer Berücksichtigung der Privatsphäre und der Aktualisierung jeglicher Art von Daten ist Sorge zu tragen.
+<span id="S12.1">(1)</span> Die Bundespartei führt ein zentrales Piratenverzeichnis. Der Landesverband kann ein eigenes Landesverzeichnis seiner Mitglieder führen. Die Gebietsverbände können eigene Verzeichnisse Ihrer Mitglieder führen. Für die sichere Aufbewahrung, die parteigebundene Verwendung und Nutzung unter besonderer Berücksichtigung der Privatsphäre und der Aktualisierung jeglicher Art von Daten ist Sorge zu tragen.
 
 
 <span id="F">
