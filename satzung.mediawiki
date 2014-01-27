@@ -252,6 +252,23 @@ Es gelten die Bestimmungen der Finanzordnung der Bundessatzung. Die hier getroff
 
 <span id="F5.1">(1)</span> Für die Verwaltung der Finanzen ist der Schatzmeister verantwortlich. Er führt Bankkonten im Namen des Landesverbandes und kann weiteren Mitgliedern Verfügungsberechtigung über Konten erteilen oder entziehen.
 
+Der Landesschatzmeister legt bis zum 30. November eines Jahres einen Entwurf für einen Finanz- und Budgetplan für das Folgejahr vor, der in Anlehnung an § 24 (4), (5) PartG zumindest folgende Punkte beinhaltet:
+
+Auf der Einnahmenseite:
+
+:- antizipierte Mitgliedsbeiträge
+:- staatliche Mittel
+
+Auf der Ausgabenseite:
+
+:- Personalausgaben
+:- Sachausgaben
+:: a) des laufenden Geschäftsbetriebs (v. a. Fixkosten)
+:: b) für Wahlkämpfe
+:: c) Reisekosten
+
+Die Ausgabenplanung erfolgt unter Berücksichtigung des "Anhang B" der Landessatzung. Bestenfalls beinhaltet die Vorausschau verschiedene Szenarien (z. B. best / normal / worst case). Der Landesvorstand berät diesen vorgelegten Entwurf und bescheidet selbigen spätestens bis zum 31. Januar des Jahres, für den der Finanzplan gelten soll.
+
 <span id="F5.2">(2)</span> Der Landesschatzmeister verwaltet alle virtuellen Kreisverbände und beschlossenen Budgets auf Finanzkonten.
 
 <span id="F5.3">(3)</span> Die Buchführung und die Verwaltung von Bankkonten haben unter Berücksichtigung des Datenschutzes möglichst transparent zu erfolgen. Der aktuelle Kontostand aller Bankkonten soll regelmäßig veröffentlicht werden. Mitglieder des Landesverbandes können über den Kontostand eines nicht personenbezogenen Finanzkontos jederzeit Auskunft verlangen.
