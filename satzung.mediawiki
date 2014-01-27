@@ -145,7 +145,7 @@
 
 <span id="S7.2">(2)</span> Für Kommunalwahlen können auch Nicht-Parteimitglieder für die Piratenpartei aufgestellt werden.
 
-<span id="S7.2">(2)</span> Die Aufstellung von Landeslisten zu Europa-, Bundestags- sowie Landtagswahlen finden im Rahmen eines Landesparteitages statt.
+<span id="S7.2">(3)</span> Die Aufstellung von Landeslisten zu Europa-, Bundestags- sowie Landtagswahlen finden im Rahmen eines Landesparteitages statt.
 
 <span id="S8">
 ==§ 8 – Satzungs- und Programmänderung==
