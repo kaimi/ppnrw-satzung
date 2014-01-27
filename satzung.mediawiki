@@ -123,11 +123,11 @@
 
 <span id="S6b.13">(13)</span> Der Landesvorstand
 :<span id="S6b.13a">a)</span> unterhält eine Internetpräsenz, die der Landesverband zur Verfügung stellt,
-:<span id="S6b.13b">b)</span> veröffentlich seine Geschäftsordnung mindestens auf der Organisationsliste, der NRW-Info Mailingliste und seiner Internetpräsenz,
+:<span id="S6b.13b">b)</span> veröffentlich seine Geschäftsordnung mindestens auf der NRW-Organisationsliste, der NRW-Info Mailingliste und seiner Internetpräsenz,
 :<span id="S6b.13c">c)</span> dokumentiert jede Sitzung,
-:<span id="S6b.13d">d)</span> veröffentlicht die Dokumentation seiner Sitzungen mindestens auf der Organisationsliste und seiner Internetpräsenz,
+:<span id="S6b.13d">d)</span> veröffentlicht die Dokumentation seiner Sitzungen mindestens auf der NRW-Organisationsliste und seiner Internetpräsenz,
 :<span id="S6b.13e">e)</span> hält seine Beschlüsse mindestens in der Dokumentation der Sitzung fest,
-:<span id="S6b.13f">f)</span> lädt mindestens 6 Tage vorher auf seiner Internetpräsenz und der Organisationsliste zu Sitzungen ein,
+:<span id="S6b.13f">f)</span> lädt mindestens 6 Tage vorher auf seiner Internetpräsenz und der NRW-Organisationsliste zu Sitzungen ein,
 :<span id="S6b.13g">g)</span> hält die Sitzungen mindestens einmal im Monat ab und
 :<span id="S6b.13h">h)</span> fasst Beschlüsse mit mindestens einfacher Mehrheit.
 
@@ -318,7 +318,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 :<span id="SO1.1c">c)</span> Arbeitsgruppen (AG),
 :<span id="SO1.1d">d)</span> Projektgruppen (PG).
 
-<span id="SO1.2">(2)</span> Die Organisationsliste ist eine Mailingliste der Piratenpartei Nordrhein-Westfalen. Sie dient nicht der Diskussion, sondern einzig dem Informationsaustausch und der Koordination der Organisationseinheiten. Die Organisationsliste ist unmoderriert, wird archiviert und ist öffentlich lesbar.
+<span id="SO1.2">(2)</span> Die NRW-Organisationsliste ist eine Mailingliste der Piratenpartei Nordrhein-Westfalen. Sie dient nicht der Diskussion, sondern einzig dem Informationsaustausch und der Koordination der Organisationseinheiten. Die NRW-Organisationsliste ist unmoderriert, wird archiviert und ist öffentlich lesbar.
 
 <span id="SO1.3">(3)</span> Zweidrittel-Mehrheit in dieser Organisationsordnung bedeutet, dass bei einer Entscheidung mindestens doppelt so viele gültige Ja-Stimmen wie gültige Nein-Stimmen abgegeben werden.
 
@@ -336,7 +336,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 :<span id="SO2.2d">d)</span> das Entscheidungsmodell sowie
 :<span id="SO2.2e">e)</span> Protokolle der Treffen.
 
-<span id="SO2.3">(3)</span> Treffen sind zu protokollieren und zeitnah auf der Organisationsliste zu veröffentlichen
+<span id="SO2.3">(3)</span> Treffen sind zu protokollieren und zeitnah auf der NRW-Organisationsliste zu veröffentlichen
 
 :<span id="SO2.3a">a)</span> bei der Gründung,
 :<span id="SO2.3b">b)</span> bei der Planung von Aktionen,
@@ -347,7 +347,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 == §3 – Gründung einer Organisationseinheit==
 
-<span id="SO3.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
+<span id="SO3.1">(1)</span> Die Absicht zur Gründung sowie der erste Sitzungstermin eines Arbeitskreises, einer Arbeitsgruppe bzw. einer Projektgruppe ist auf der NRW-Info Mailingliste und mit einer Frist von 7 Tagen auf der NRW-Organisationsliste mit Angabe des Themas der Gruppe zu veröffentlichen.
 
 <span id="SO3.2">(2)</span> Zur Gründung einer Organisationseinheit müssen mindestens drei der Gründungsmitglieder NRW-Pirat sein. Die Identität der erforderlichen Gründungsmitglieder, die NRW-Piraten sind, muss dem Landesvorstand mit ihrem dem Landesverband bekannten Namen und der Mitgliednummer mitgeteilt werden. Sie gilt als gegründet, wenn die Gründung dem Landesvorstand per E-Mail oder in einer Vorstandssitzung bekannt gegeben wurde. Der Landesvorstand kann der Gründung einer Organisationseinheit innerhalb von 21 Tagen widersprechen, wenn sie die satzungswidrige Bestrebungen einer durch Schiedsgerichturteil oder Entscheidung des Landesparteitages aufgelösten Organisationseinheit an deren Stelle weiterverfolgt (Ersatzorganisationseinheit). Dieser Widerspruch muß vom Vorstand schriftlich begründet werden und es kann beim Landesschiedsgericht Klage gegen den Widerspruch erhoben werden. Die Klage gegen den Widerspruch hat keine aufschiebende Wirkung.
 
@@ -379,7 +379,7 @@ Grundlage dieser Strukturordnung ist die Erkenntnis, dass sich Arbeiten in Teams
 
 <span id="SO5.2">(2)</span> Der Austritt aus einer Organisationseinheit ist durch einfache Willenserklärung möglich.
 
-<span id="SO5.3">(3)</span> Sollte sich die Organisationseinheit keine eigenen Regelungen diesbezüglich gegeben haben, können ihre Mitglieder über den begründeten Ausschluss eines Mitglieds entscheiden, wenn sich mindestens doppelt so viele ihrer Mitglieder dafür wie dagegen aussprechen. Diese Entscheidung ist zu protokollieren und auf der Internetpräsenz und auf der Organisationsliste zu veröffentlichen. Mitglieder, die drei Mal in Folge den Treffen der Organisationseinheit unentschuldigt fernbleiben, bekunden damit ihren Willen zum Austritt aus der Organisationseinheit.
+<span id="SO5.3">(3)</span> Sollte sich die Organisationseinheit keine eigenen Regelungen diesbezüglich gegeben haben, können ihre Mitglieder über den begründeten Ausschluss eines Mitglieds entscheiden, wenn sich mindestens doppelt so viele ihrer Mitglieder dafür wie dagegen aussprechen. Diese Entscheidung ist zu protokollieren und auf der Internetpräsenz und auf der NRW-Organisationsliste zu veröffentlichen. Mitglieder, die drei Mal in Folge den Treffen der Organisationseinheit unentschuldigt fernbleiben, bekunden damit ihren Willen zum Austritt aus der Organisationseinheit.
 
 <span id="SO6">
 ==§6 – Auflösung==
